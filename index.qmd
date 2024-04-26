@@ -1,0 +1,156 @@
+---
+pagetitle: "SARA"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+---
+
+::: {.column-screen .banner-blue}
+
+![](images/banner-sara.png){fig-alt="A dedication picture of two legendary women, Mata Savitribai Phule & Mata Ramabai Ambedkar. Sara Institute's name is the combination of the first two letters of their names."}
+
+# [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
+
+:::
+
+::: {.column-page}
+
+# Mission 
+
+[SARA Institute is dedicated to empowering underrepresented communities in India through data science education. Our mission is to cultivate a vibrant data science community where individuals from all backgrounds can thrive, learn, and contribute to society.]{.p-mission}
+
+<!-- [SARA Institute, established in April 2023, stands upon a strong foundation of social purpose. Our mission is to empower underrepresented communities through data science education. We are dedicated to fostering a dynamic learning environment that nurtures creativity, critical thinking, and personal growth. We aim to cultivate a vibrant community where individuals of all backgrounds can thrive, learn, and contribute positively to society.]{.p-mission}  -->
+
+::: {.button}
+[Learn more](about.qmd)
+:::
+:::
+
+::: {.column-screen}
+
+![](images/launch-sara.jpg){fig-alt="First batch data science students at SARA."}
+:::
+
+
+::: {.column-page}
+
+# Free Courses
+
+[All our courses are free and open-source for every student.]{.p-mission}
+
+<br>
+
+::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1649433391420-542fcd3835ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Computer Skills
+
+You will learn how to use a personal computer,  components of computers, how to
+
+Learning computer skills enhances employability, facilitate efficient communication, information retrieval, and collaboration.
+
+[Learn more]()
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Data Science
+
+Uncovering hidden patterns to drive decision making and innovation using data science education.
+
+[Learn more]()
+
+:::
+
+::: {.card}
+
+![](https://images.unsplash.com/photo-1508004680771-708b02aabdc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## Research Methods
+
+Scholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.
+
+[Learn more]()
+:::
+:::
+
+
+::: {.col}
+::: {.card}
+
+![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+## English Language
+
+Learning English enhanced global communication, opens doors to diverse cultures, facilitates travel, and provides a competitive edge in the global job market.
+
+[Learn more]()
+
+:::
+:::
+
+:::
+
+::: {.button}
+[Apply now](courses.qmd)
+:::
+
+:::
+
+::: {.column-screen}
+
+![](images/students_first_sara.jpg){width=100% fig-alt="First batch data science students at SARA."}
+:::
+
+
+::: {.column-page}
+
+# Community
+
+
+[SARA Institute follows the 'Paying Back to the Community' philosophy. We aim to educate our community about the importance of data science, equipping them with essential skills and offering mentorship to kickstart their careers in the field.]{.p-mission}
+
+::: {.button}
+[Become a SARA Supporter](support.qmd)
+:::
+:::
+
+::: {.column-screen .banner-cream}
+
+# Thanks
+
+[A good organization is built by happy & well-supported people.]{.p-mission}
+
+[Thank you for being a part of the SARA!]{.p-mission}
+
+<br>
+
+::: {.flex-container}
+![](images/ajay.png){width=75%}<br>Dr. Ajay Koli, PhD<br>Founder & Executive Director, SARA.
+
+![](images/kiran.png){width=75%}<br>Dr. Kiran Koli, PhD<br>Founder & Director, SARA.
+
+[Home](index.qmd) <br><br> [About](about.qmd) <br><br> [Courses](courses.qmd) <br><br> [Contact](contact.qmd) <br><br> [Donate](donate.qmd)
+
+:::
+
+<br>
+
+[Your support and participation<br> are invaluable as we embark on this journey together.]{.p-mission}
+
+
+<br>
+:::

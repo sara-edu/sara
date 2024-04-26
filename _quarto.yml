@@ -1,0 +1,57 @@
+project:
+  type: website
+  preview: 
+    browser: true
+  #output-dir: docs
+
+website:
+  title: "SARA INSTITUTE"
+  favicon: "images/logo_sara.png"
+  site-url: "https://sara.netlify.app/"
+  description: "We offer free data science education to underrepresented students."
+  twitter-card: true
+  image: "images/logo_sara.png"
+  
+  #cookie-consent: true
+  
+  navbar:
+    search: false
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: courses.qmd
+        text: Courses
+      # - href: blog.qmd
+      #   text: Blog
+      - href: contact.qmd
+        text: Contact
+      - href: donate.qmd
+        text: Donate  
+        
+    
+        
+  page-footer:
+    background: "#000033"
+    left: "SARA Institute &copy; 2023-present"
+    center:
+      - icon: twitter-x
+        href: https://twitter.com/sara_institute
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/sara-edu
+        aria-label: GitHub
+    right: "[Terms & Conditions](t&c.qmd)"
+    border: true
+    
+      
+format:
+  html:
+    page-layout: full
+    theme: 
+     - flatly
+     - test.scss
+    css: styles.css
+    toc: false
