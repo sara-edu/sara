@@ -1,7 +1,7 @@
 ---
 pagetitle: "Courses"
 page-layout: full
-#backgroundcolor: "#e9e9e9"
+backgroundcolor: "#e9e9e9"
 format: html
 #css: styles.css
 include-in-header: 
@@ -15,25 +15,111 @@ include-in-header:
 
 # Our Courses
 
-## Data Science
+::: {.col}
+::: {.card}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## 1. R For Beginners
 
-## Computer Skills
+![](https://r4ds.hadley.nz/cover.jpg){width="25%"}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We began our data science journey with R language. To know more about our journey as a data science educator please visit the website of our first course ["R for Beginners"](https://r4b.netlify.app/). R is programming language. [R project](https://www.r-project.org/about.html) website defines it as "a language and environment for statistical computing and graphics". R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We will be following the online book [R for Data Science](https://r4ds.hadley.nz/). Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.
 
-## English Language
+## 2. Basics of Statistics
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![](https://m.media-amazon.com/images/I/81MYDyMp6lL.jpg){width="25%"}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Learning statistics is one of the most important part of data science. We will be "discovering" statistics using the book from one of the most respected researchers in the field, [PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺](https://www.discoveringstatistics.com/)
 
-## Research Methods
+Using this book we will be exploring the following topics:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why you need science; reporting research, variables and measurement; summarizing data; fitting models (central tendency); presenting data; z-scores; probability; inferential statistics; robust estimation; hypothesis testing; modern approaches to theory testing; assumptions; relationships (correlation); the general linear model; comparing two means; comparing several means; factorial designs.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## 3. Research Methods
+
+Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three books:
+
+::: grid
+::: g-col-3
+![](https://images.squarespace-cdn.com/content/v1/5c1aa51d5ffd20b405c93923/1545785804032-KMK95UIM01DMCD5R670X/Research+Design?format=500w){width="100%"}
+:::
+
+::: g-col-3
+![](https://m.media-amazon.com/images/I/711opkha5DS._AC_UY436_QL65_.jpg){width="100%"}
+:::
+
+::: g-col-3
+![](https://m.media-amazon.com/images/I/818pdQaq4xL.jpg){width="100%"}
+:::
+:::
+
+Codes execute what you think; however what you think depends on how you view a specific issue. Research methodology helps us think critically about problems and questions; it teaches us how to find earlier or other possible solutions in an ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.
+
+## 4. Python for Beginners
+
+> More information soon.
+
+## 5. Data Visualization
+
+> More information soon.
+
+## 6. An Introduction to GitHub
+
+> More information soon.
+
+# {{< fa door-open >}} Course admission requirements
+
+::: {.panel-tabset}
+
+## {{< fa graduation-cap >}} Courses
+
+- Data science courses
+
+- Computer skills
+
+- English language writing, speaking and listening course.
+
+- Research methodologies
+
+## {{< fa indian-rupee-sign >}} Fee
+
+  🎉 No fees. 
+  
+  All courses are free for all the students.
+
+## {{< fa user >}} Eligibility
+
+- To study the data science and research methodology courses, the students should be graduated in any discipline. 
+
+-  Computer skills & English language courses are open for all levels of students.
+
+##  {{< fa clock >}} Duration
+
+- 6 months
+
+- Monday to Friday
+  - 9 am to 11 am : Data science classes
+  - 3 pm to 5 pm : English language classes
+
+## {{< fa location-dot >}} Location
+
+All classes will be face-to-face at the <br>Dr. Ambedkar Bhawan, <br>Kakroi Road, <br>Sonipat, Haryana - 131001
+
+{{< fa phone >}} 925 315 2024
+
+[Google Map](https://maps.app.goo.gl/eh3rgb92GkqAnPLR8)
+
+:::
+
+<br>
+
+# {{< fa pen >}} Course registration link
+
+<https://forms.gle/QhFEjzPqWqt1tdtL9>
+
+:::
+:::
+
+<br>
 

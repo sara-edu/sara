@@ -15,6 +15,18 @@ include-in-header:
 
 # Contact Us
 
+::: {.col}
+::: {.card}
+
 {{< fa envelope >}} Inquires: [sara.institute.info@gmail.com]{.underline}
 
 {{< fa university >}} Mailing address: Ajay Koli, Dr. Ambedkar Bhavan, Kakroi Road, Sonipat, Haryana - 131001.
+
+{{< fa phone >}} Mobile number: 925 315 2024 
+
+{{< fa clock >}} Office hours: Monday to Friday, from 09 AM to 06 PM.
+
+:::
+:::
+
+<br>

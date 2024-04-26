@@ -70,11 +70,60 @@
     "text": "Dr. Ajay Koli and Dr. Kiran Koli founded the Sara Education Trust (Registered). On 5 April 2023, they started Savitribai Ramabai Institute of Data Science (SARA Institute). SARA offers completely free education for all students. We teach data science, computer skills, English language, and research methodologies.\nBefore starting SARA, both Ajay and Kiran were full-time Assistant Professor in different private universities. Now, they run SARA Institute only. Currently, they live in Sonipat in a rented house. Recently, they also became parents of a beautiful daughter. They are very thankful to the Ambedkar Educational Society, Sonipat for giving permission to conduct the SARA classes in the Ambedkar Bhawan, Sonipat."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
+    "objectID": "terms.html",
+    "href": "terms.html",
+    "title": "Terms & Conditions",
     "section": "",
-    "text": "Contact Us\n Inquires: sara.institute.info@gmail.com\n Mailing address: Ajay Koli, Dr. Ambedkar Bhavan, Kakroi Road, Sonipat, Haryana - 131001."
+    "text": "Terms & Conditions\n\n\nLast updated on Apr 26th 2024\nFor the purpose of these Terms and Conditions, The term “we”, “us”, “our” used anywhere on this page shall mean SARA EDUCATION TRUST, whose registered/operational office is B-98, Rama Park, Uttam Nagar, West Delhi West Delhi DELHI 110059 . “you”, “your”, “user”, “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.\nYour use of the website and/or purchase from us are governed by following Terms and Conditions:\n\nThe content of the pages of this website is subject to change without notice.\nNeither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.\nYour use of any information or materials on our website and/or product pages is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through our website and/or product pages meet your specific requirements.\nOur website contains material which is owned by or licensed to us. This material includes, but are not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.\nAll trademarks reproduced in our website which are not the property of, or licensed to, the operator are acknowledged on the website.\nUnauthorized use of information provided by us shall give rise to a claim for damages and/or be a criminal offense.\nFrom time to time our website may also include links to other websites. These links are provided for your convenience to provide further information.\nYou may not create a link to our website from another website or document without SARA EDUCATION TRUST’s prior written consent.\nAny dispute arising out of use of our website and/or purchase with us and/or any engagement with us is subject to the laws of India .\nWe, shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Our Courses",
+    "section": "",
+    "text": "We began our data science journey with R language. To know more about our journey as a data science educator please visit the website of our first course “R for Beginners”. R is programming language. R project website defines it as “a language and environment for statistical computing and graphics”. R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.\nWe will be following the online book R for Data Science. Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports.\n\n\n\n\nLearning statistics is one of the most important part of data science. We will be “discovering” statistics using the book from one of the most respected researchers in the field, PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺\nUsing this book we will be exploring the following topics:\nWhy you need science; reporting research, variables and measurement; summarizing data; fitting models (central tendency); presenting data; z-scores; probability; inferential statistics; robust estimation; hypothesis testing; modern approaches to theory testing; assumptions; relationships (correlation); the general linear model; comparing two means; comparing several means; factorial designs.\n\n\n\nAcademics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three books:\n\n\n\n\n\n\n\n\n\n\n\nCodes execute what you think; however what you think depends on how you view a specific issue. Research methodology helps us think critically about problems and questions; it teaches us how to find earlier or other possible solutions in an ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics.\n\n\n\n\nMore information soon.\n\n\n\n\n\nMore information soon.\n\n\n\n\n\nMore information soon.\n\n\n\n\n\n Courses Fee Eligibility Duration Location\n\n\n\nData science courses\nComputer skills\nEnglish language writing, speaking and listening course.\nResearch methodologies\n\n\n\n🎉 No fees.\nAll courses are free for all the students.\n\n\n\nTo study the data science and research methodology courses, the students should be graduated in any discipline.\nComputer skills & English language courses are open for all levels of students.\n\n\n\n\n6 months\nMonday to Friday\n\n9 am to 11 am : Data science classes\n3 pm to 5 pm : English language classes\n\n\n\n\nAll classes will be face-to-face at the Dr. Ambedkar Bhawan, Kakroi Road, Sonipat, Haryana - 131001\n 925 315 2024\nGoogle Map\n\n\n\n\n\n\n\nhttps://forms.gle/QhFEjzPqWqt1tdtL9"
+  },
+  {
+    "objectID": "courses.html#r-for-beginners",
+    "href": "courses.html#r-for-beginners",
+    "title": "Our Courses",
+    "section": "",
+    "text": "We began our data science journey with R language. To know more about our journey as a data science educator please visit the website of our first course “R for Beginners”. R is programming language. R project website defines it as “a language and environment for statistical computing and graphics”. R is very famous for its accurate statistical analysis and elegant graphics. It is equally powerful for developing Shiny apps.\nWe will be following the online book R for Data Science. Each chapter will be covered including the exercises. Using this book we will be covering data science framework, data Visualization, data cleaning, quarto for making slides, websites, thesis, and reports."
+  },
+  {
+    "objectID": "courses.html#basics-of-statistics",
+    "href": "courses.html#basics-of-statistics",
+    "title": "Our Courses",
+    "section": "",
+    "text": "Learning statistics is one of the most important part of data science. We will be “discovering” statistics using the book from one of the most respected researchers in the field, PROF. ANDY FIELD & HIS CAT PROF. MILTON 😺\nUsing this book we will be exploring the following topics:\nWhy you need science; reporting research, variables and measurement; summarizing data; fitting models (central tendency); presenting data; z-scores; probability; inferential statistics; robust estimation; hypothesis testing; modern approaches to theory testing; assumptions; relationships (correlation); the general linear model; comparing two means; comparing several means; factorial designs."
+  },
+  {
+    "objectID": "courses.html#research-methods",
+    "href": "courses.html#research-methods",
+    "title": "Our Courses",
+    "section": "",
+    "text": "Academics or industry this course will be extremely helpful for you to evolve critical research thinking. We will be following three books:\n\n\n\n\n\n\n\n\n\n\n\nCodes execute what you think; however what you think depends on how you view a specific issue. Research methodology helps us think critically about problems and questions; it teaches us how to find earlier or other possible solutions in an ocean of information. It also trains us how to use scientific methods to do analysis and reporting of the results without biases and following the ethics."
+  },
+  {
+    "objectID": "courses.html#python-for-beginners",
+    "href": "courses.html#python-for-beginners",
+    "title": "Our Courses",
+    "section": "",
+    "text": "More information soon."
+  },
+  {
+    "objectID": "courses.html#data-visualization",
+    "href": "courses.html#data-visualization",
+    "title": "Our Courses",
+    "section": "",
+    "text": "More information soon."
+  },
+  {
+    "objectID": "courses.html#an-introduction-to-github",
+    "href": "courses.html#an-introduction-to-github",
+    "title": "Our Courses",
+    "section": "",
+    "text": "More information soon."
   },
   {
     "objectID": "overview.html",
@@ -84,39 +133,11 @@
     "text": "About us\nWe are a non-governmental charitable education and research institute founded in April 2023 by Dr. Ajay Koli and Dr. Kiran Koli. Our aim is to take data science education to underrepresented students in India. We offer free of cost data science, computer skills, research and English language courses. Our courses help students to:\n\nland a job in the field of data science, and\nget a fellowship for higher education."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Our Courses",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
     "section": "",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  },
-  {
-    "objectID": "courses.html#data-science",
-    "href": "courses.html#data-science",
-    "title": "Our Courses",
-    "section": "",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  },
-  {
-    "objectID": "courses.html#computer-skills",
-    "href": "courses.html#computer-skills",
-    "title": "Our Courses",
-    "section": "",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  },
-  {
-    "objectID": "courses.html#english-language",
-    "href": "courses.html#english-language",
-    "title": "Our Courses",
-    "section": "",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-  },
-  {
-    "objectID": "courses.html#research-methods",
-    "href": "courses.html#research-methods",
-    "title": "Our Courses",
-    "section": "",
-    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    "text": "Contact Us\n\n\n Inquires: sara.institute.info@gmail.com\n Mailing address: Ajay Koli, Dr. Ambedkar Bhavan, Kakroi Road, Sonipat, Haryana - 131001.\n Mobile number: 925 315 2024\n Office hours: Monday to Friday, from 09 AM to 06 PM."
   },
   {
     "objectID": "index.html#computer-skills",
@@ -149,8 +170,8 @@
   {
     "objectID": "donate.html",
     "href": "donate.html",
-    "title": "How are we supported",
+    "title": "Donate",
     "section": "",
-    "text": "How are we supported\nSARA is funded with the support of donations from the community members.\nIf you are interested in supporting SARA, consider donating here. To inquire about larger donations or opportunities to support SARA, please reach us at sara.institute.info@gmail.com"
+    "text": "Donate\n\n\nSARA Institute is an organisation of SARA EDUCATION TRUST, a leading data science education institute.\nAre you interested in supporting the institute and its educators? As a Section 60 nonprofit, donations in support of SARA EDUCATION TRUST and SARA Institute are welcomed. Right now, we do not have tax-deductible as provided by law. Soon, we will share the e-payment methods.\nFor time being, interested donors please reach us at sara.institute.info@gmail.com"
   }
 ]

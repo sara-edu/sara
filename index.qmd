@@ -124,7 +124,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 [SARA Institute follows the 'Paying Back to the Community' philosophy. We aim to educate our community about the importance of data science, equipping them with essential skills and offering mentorship to kickstart their careers in the field.]{.p-mission}
 
 ::: {.button}
-[Become a SARA Supporter](support.qmd)
+[Become a SARA Supporter](donate.qmd)
 :::
 :::
 

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Support"
+pagetitle: "Donate"
 page-layout: full
 backgroundcolor: "#e9e9e9"
 format: html
@@ -14,8 +14,16 @@ include-in-header:
 
 ---
 
-# How are we supported
+# Donate
 
-SARA is funded with the support of donations from the community members.
+::: {.col}
+::: {.card}
 
-If you are interested in supporting SARA, consider donating here. To inquire about larger donations or opportunities to support SARA, please reach us at [sara.institute.info@gmail.com]{.underline}
+*SARA Institute* is an organisation of SARA EDUCATION TRUST, a leading data science education institute.  
+
+Are you interested in supporting the institute and its educators? As a Section 60 nonprofit, donations in support of SARA EDUCATION TRUST and *SARA Institute* are welcomed. Right now, we do not have tax-deductible as provided by law. Soon, we will share the e-payment methods.
+
+For time being, interested donors please reach us at [sara.institute.info@gmail.com]{.underline}
+
+:::
+:::

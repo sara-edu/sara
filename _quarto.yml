@@ -43,7 +43,7 @@ website:
       - icon: github
         href: https://github.com/sara-edu
         aria-label: GitHub
-    right: "[Terms & Conditions](t&c.qmd)"
+    right: "[Terms & Conditions](terms.qmd)"
     border: true
     
       
