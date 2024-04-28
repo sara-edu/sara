@@ -24,8 +24,8 @@ website:
         text: About
       - href: courses.qmd
         text: Courses
-      # - href: blog.qmd
-      #   text: Blog
+      - href: school.qmd
+        text: Schools
       - href: contact.qmd
         text: Contact
       - href: donate.qmd

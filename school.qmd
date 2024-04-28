@@ -1,0 +1,88 @@
+---
+pagetitle: "Schools"
+#linestretch: 3
+page-layout: full
+backgroundcolor: "#e9e9e9"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# $1^{st}$ SARA Summer School - Sonipat
+
+::: {.col}
+::: {.card}
+Welcome to the SARA Summer School!
+
+The **$1^{st}$ SARA Summer School for Doing Research Using R** will take place on **July 22-26, 2024.**
+
+The classes will be offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+<br>
+
+::: {.centering}
+[REGISTRATION FOR THE 2024 SARA SUMMER SCHOOL IS NOW OPEN!]{.clr-red}
+
+[ORGANIZED ONLY FOR SC/ST/OBC/EWS.]{.clr-red}
+
+[THERE IS NO TUITION FEE. FOR FOOD AND ACCOMMODATION PAY $6000$ INR.]{.clr-red}
+
+[[REGISTRATION LINK]{.clr-red}]()
+
+:::
+
+<br>
+
+It does not matter if you cannot speak English or fear those confusing signs and calculations. Believe me, research is not that boring or scary. This summer school can help you to develop friendship with research, statistics and data science. Our 5 courses will help and hand hold you to cover each important step of conducting research using data science tools.
+
+## Courses
+
+The SARA Summer School offers intensive training with outstanding international faculty to do research using data science. Participants will be doing the following courses:
+
+**5 days courses (35 hours):**
+
+**22-26 July 2024**
+
+- Day 1 (22 July): Introduction to data science
+    
+    - R & RStudio
+    - Types of operators
+    - RStudio project
+    - Coding using console, script & quarto
+    - Structure of R function
+    - R packages
+    - Create objects
+    - Help from R community
+
+- Day 2 (23 July): Data Visualization
+
+- Day 3 (24 July): Research Design in Social Sciences
+
+- Day 4 (25 July): Quantitative Data Analysis
+
+- Day 5 (26 July): Publish using R and GitHub
+
+For further details about the summer school, courses, instructors, financial assistance please visit the contact:
+
+{{< fa envelope >}} sara.institute.info@gmail.com.
+
+{{< fa phone >}} Mobile number: 925 315 2024
+
+All participants receive an ungraded certificate of attendance on the last day of the SARA Summer School.
+
+Join us on a journey of learning and discovery!
+
+## Supported by
+
+![](images/sonipat-bhawan.png)
+
+:::
+:::
+
+<br>
+

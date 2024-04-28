@@ -19,11 +19,15 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-*SARA Institute* is an organisation of SARA EDUCATION TRUST, a leading data science education institute.  
+SARA Institute is a leading data science education institute. It is an entity of SARA EDUCATION TRUST registered under Section 60 non-profit.  
 
-Are you interested in supporting the institute and its educators? As a Section 60 nonprofit, donations in support of SARA EDUCATION TRUST and *SARA Institute* are welcomed. Right now, we do not have tax-deductible as provided by law. Soon, we will share the e-payment methods.
+Are you interested in supporting the institute and its educators? Sadly, right now, we do not have tax-deductible 80G and 12A certificates. We also cannot accept international donation as we do not have FCRA certificate from the Government of India. 
 
-For time being, interested donors please reach us at [sara.institute.info@gmail.com]{.underline}
+Donations in support of SARA EDUCATION TRUST and SARA Institute are welcomed. Interested international donors can support us with the help of their family and friends in India.
+
+Interested donors please reach us at sara.institute.info@gmail.com
 
 :::
 :::
+
+<br>

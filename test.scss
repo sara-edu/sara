@@ -6,6 +6,11 @@ $clr-gray:        #2A2121;
 $clr-blue:        #0061ab;
 $clr-cream:       #f2f2f2;
 $clr-white:       #fff;
+$clr-red:         #ff0000;
+
+.clr-red {
+  color: $clr-red;
+}
 
 .clr-cream {
   color: $clr-cream;
@@ -218,6 +223,6 @@ h2{
   margin-bottom: -60px;
 }
 
-.lefting {
-  text-align: left;
+.centering {
+  text-align: center;
 }
