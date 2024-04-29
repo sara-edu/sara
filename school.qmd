@@ -1,8 +1,7 @@
 ---
 pagetitle: "Schools"
 #linestretch: 3
-page-layout: full
-backgroundcolor: "#e9e9e9"
+#backgroundcolor: "#e9e9e9"
 include-in-header: 
   text: |
     <style type="text/css">
@@ -38,7 +37,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 <br>
 
-It does not matter if you cannot speak English or fear those confusing signs and calculations. Believe me, research is not that boring or scary. This summer school can help you to develop friendship with research, statistics and data science. Our 5 courses will help and hand hold you to cover each important step of conducting research using data science tools.
+It does not matter if your English is not that good or you fear maths. Believe me, all can learn how to do research. This summer school can really help you to develop friendship with research, statistics and data science. Our 5 courses will help and hand hold you to cover each important step of conducting research using data science tools.
 
 ## Courses
 
@@ -57,17 +56,54 @@ The SARA Summer School offers intensive training with outstanding international 
     - Structure of R function
     - R packages
     - Create objects
+    - Communicate using quarto
     - Help from R community
 
 - Day 2 (23 July): Data Visualization
 
+    - Introduction & first steps
+    - ggplot2 calls
+    - Visualizing distributions
+    - Visualizing relationships
+    - Saving your plots
+    - Common problems
+
 - Day 3 (24 July): Research Design in Social Sciences
+
+    - Research framework
+    - Research approaches
+    - Ethics in research
+    - Literature review and its tools
+    - Levels of measurement
+    - Sampling and its types
+    - Quantiative methods and analysis
+    - Qualitative methods and analysis
 
 - Day 4 (25 July): Quantitative Data Analysis
 
+    - Data and table manners
+    - Average and percentiles
+    - Spreads
+    - Transforming data
+    - The normal distribution
+    - From samples to populations
+    - Getting confident
+    - Fun with proportions
+    - Correlation and regression
+
 - Day 5 (26 July): Publish using R and GitHub
 
-For further details about the summer school, courses, instructors, financial assistance please visit the contact:
+    - Reproducible research
+    - Dynamic thesis, articles and slides.
+    - Add links and images
+    - Prepare list
+    - Write equations
+    - Prepare tables
+    - Reference management
+    - Learn using GitHub
+    - Make your own website
+
+For further details about the summer school, courses, instructors, financial assistance, food, and accommodation please contact:
 
 {{< fa envelope >}} sara.institute.info@gmail.com.
 

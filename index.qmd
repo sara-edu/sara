@@ -1,5 +1,5 @@
 ---
-pagetitle: "SARA"
+pagetitle: "SARA Home"
 include-in-header: 
   text: |
     <style type="text/css">
