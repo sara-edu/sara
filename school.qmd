@@ -12,13 +12,13 @@ include-in-header:
 
 ---
 
-# $1^{st}$ SARA Summer School - Sonipat
+# 1^st^ SARA Summer School - Sonipat<br>"Doing Research Using R"
 
 ::: {.col}
 ::: {.card}
 Welcome to the SARA Summer School!
 
-The **$1^{st}$ SARA Summer School for Doing Research Using R** will take place on **July 22-26, 2024.**
+The **1^st^ SARA Summer School for "Doing Research Using R"** will take place on **July 22-26, 2024.**
 
 The classes will be offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
 
@@ -31,24 +31,35 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 [THERE IS NO TUITION FEE. FOR FOOD AND ACCOMMODATION PAY $6000$ INR.]{.clr-red}
 
-[[REGISTRATION LINK]{.clr-red}]()
+[REGISTRATION LINK:]{.clr-red} <https://tinyurl.com/3k4js6wp>
 
 :::
 
 <br>
 
-It does not matter if your English is not that good or you fear maths. Believe me, all can learn how to do research. This summer school can really help you to develop friendship with research, statistics and data science. Our 5 courses will help and hand hold you to cover each important step of conducting research using data science tools.
+**Unlock Your Potential in Research, Statistics, and Data Science**
+
+Don't let language barriers or fear of math hold you back. At our summer school, we're here to show you that anyone can master the art of research. Whether you're a beginner or just need a confidence boost, our program is designed to cultivate a deep friendship with research, statistics, and data science.
+
+Our comprehensive curriculum consists of five courses meticulously crafted to guide you through every essential aspect of conducting research using powerful data science tools. From foundational principles to advanced techniques, we'll be with you every step of the way, providing expert support and guidance.
+
+Join us this summer and embark on a transformative journey towards unlocking your full potential in research, statistics, and data science. Let's turn your curiosity into expertise and your apprehension into confidence.
 
 ## Courses
 
-The SARA Summer School offers intensive training with outstanding international faculty to do research using data science. Participants will be doing the following courses:
+Immerse yourself in the world of research with data science through the SARA Summer School. Led by esteemed educator [Dr. Ajay Kumar Koli](https://koliajay.netlify.app/), our intensive training program is designed to equip participants with the essential skills and knowledge needed to excel in the field.
 
-**5 days courses (35 hours):**
+In addition to Dr. Ajay Kumar Koli's expertise, participants will have the unique opportunity to learn from five distinguished guest lecturers comprising exceptional international faculty. Their insights and experiences will enrich your learning journey, providing valuable perspectives from across the globe.
+
+Participants will be doing the following courses:
+
+**5 days courses (9 am to 12:30 pm & 1:30 pm to 6 pm; 40 hours):**
 
 **22-26 July 2024**
 
 - Day 1 (22 July): Introduction to data science
     
+    - *Online Guest lecture*
     - R & RStudio
     - Types of operators
     - RStudio project
@@ -61,6 +72,7 @@ The SARA Summer School offers intensive training with outstanding international 
 
 - Day 2 (23 July): Data Visualization
 
+    - *Online Guest lecture*
     - Introduction & first steps
     - ggplot2 calls
     - Visualizing distributions
@@ -70,6 +82,7 @@ The SARA Summer School offers intensive training with outstanding international 
 
 - Day 3 (24 July): Research Design in Social Sciences
 
+    - *Online Guest lecture*
     - Research framework
     - Research approaches
     - Ethics in research
@@ -81,6 +94,7 @@ The SARA Summer School offers intensive training with outstanding international 
 
 - Day 4 (25 July): Quantitative Data Analysis
 
+    - *Online Guest lecture*
     - Data and table manners
     - Average and percentiles
     - Spreads
@@ -93,6 +107,7 @@ The SARA Summer School offers intensive training with outstanding international 
 
 - Day 5 (26 July): Publish using R and GitHub
 
+    - *Online Guest lecture*
     - Reproducible research
     - Dynamic thesis, articles and slides.
     - Add links and images
@@ -102,7 +117,59 @@ The SARA Summer School offers intensive training with outstanding international 
     - Reference management
     - Learn using GitHub
     - Make your own website
+    
+## Food & Accommodation
 
+We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+
+At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
+
+As part of our commitment to sustainability and minimizing plastic waste, we kindly ask all participants to **[bring their own reusable eating utensils and bed sheets]{.clr-blue}**.
+
+### Food
+
+Delight in vegetarian meals served for breakfast, lunch, and dinner. 
+
+### Accommodation
+
+- For Female Participants: You'll be accommodated in a dedicated "female only" common hall furnished with beds, mattresses, and shared desert coolers. Rest assured, you'll have access to a "female only" shared bathroom for your convenience and privacy.
+
+- For Male Participants: Two male participants will be comfortably lodged in a "male only" sharing room within the premises. Additionally, they will have access to a "male only" shared bathroom for their comfort and convenience.
+
+We are committed to making your stay enjoyable and memorable. Should you have any special requirements or concerns, please don't hesitate to reach out to our team. We look forward to hosting you and creating wonderful memories together at Dr. Ambedkar Bhawan. 
+
+## Travel Guidelines
+
+Here are some travel guidelines to reach Sonipat, Haryana:
+
+**By Air:**
+The nearest airport to Sonipat is Indira Gandhi International Airport (DEL) in New Delhi, which is approximately 75 kilometers away. From the airport, you can hire a taxi or take a bus to reach Sonipat.
+
+**By Train:**
+Sonipat is well-connected by rail to major cities across India. The Sonipat Railway Station is situated on the Northern Railway network and serves as an important junction. You can check for trains to Sonipat from your departure point and book tickets accordingly.
+
+**By Road:**
+Sonipat is easily accessible by road, with well-maintained highways connecting it to nearby cities like Delhi, Chandigarh, and Jaipur. You can either drive to Sonipat or opt for bus services operated by state transport or private operators. 
+
+- If you're coming from Delhi, you can take NH44 or NH9 to reach Sonipat, which is approximately a 1.5 to 2-hour drive depending on traffic conditions.
+- From Chandigarh, you can take NH44 via Ambala and continue towards Sonipat.
+- If you're traveling from Jaipur, you can take NH48 and NH352A to reach Sonipat.
+
+**Local Transportation:**
+Once you reach Sonipat, you can easily get around the city using auto-rickshaws, cycle rickshaws, or taxis. Public buses also ply on various routes within the city and to nearby areas.
+
+Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
+    
+## Cancellation Policy
+
+  - Registered participants requesting to withdraw from the SARA Summer School within two weeks of payment receive a full refund of the food and accommodation fees less an administrative charge of 500 INR.
+  
+  - Withdrawals received more than two weeks after payment has been made and before **[Thursday, June 20, 2024]{.clr-blue}**, receive a 50% refund. No refunds will be given for withdrawals after **[Thursday, June 20, 2024]{.clr-blue}**.
+  
+  - Registered participants on summer school canceled by the SARA Institute will be offered a full refund of their food and accommodation fees.
+  
+  - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Summer School.
+  
 For further details about the summer school, courses, instructors, financial assistance, food, and accommodation please contact:
 
 {{< fa envelope >}} sara.institute.info@gmail.com.
@@ -113,9 +180,22 @@ All participants receive an ungraded certificate of attendance on the last day o
 
 Join us on a journey of learning and discovery!
 
-## Supported by
+## PARTNERS {.centering}
 
+::: {.layout-grid}
+
+::: {.col}
 ![](images/sonipat-bhawan.png)
+:::
+
+::: {.col}
+![](images/australia.png){width=45%}
+:::
+
+::: {.col}
+![](images/alcorn.png)
+:::
+:::
 
 :::
 :::
