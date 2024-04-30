@@ -189,10 +189,6 @@ Join us on a journey of learning and discovery!
 :::
 
 ::: {.col}
-![](images/australia.png){width=45%}
-:::
-
-::: {.col}
 ![](images/alcorn.png)
 :::
 :::
