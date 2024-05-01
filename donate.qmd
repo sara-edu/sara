@@ -27,6 +27,12 @@ Donations in support of SARA EDUCATION TRUST and SARA Institute are welcomed. In
 
 Interested donors please reach us at sara.institute.info@gmail.com
 
+::: {.centering}
+
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
+
+:::
+
 :::
 :::
 
