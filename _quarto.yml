@@ -43,6 +43,9 @@ website:
       - icon: github
         href: https://github.com/sara-edu
         aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/company/sara-institute-of-data-science/
+        aria-label: LinkedIn  
     right: "[Terms & Conditions](terms.qmd)"
     border: true
     
