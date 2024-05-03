@@ -18,7 +18,7 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-**Get in Touch with SARA Institute**
+**Get in Touch with SARA Institute of Data Science**
 
 We welcome your inquiries, feedback, and collaboration opportunities. Please feel free to reach out to us using any of the following methods:
 

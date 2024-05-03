@@ -7,8 +7,8 @@ project:
 website:
   title: "SARA INSTITUTE"
   favicon: "images/logo_sara.png"
-  site-url: "https://sara.netlify.app/"
-  description: "We offer free data science education to underrepresented students."
+  site-url: "https://sara-edu.netlify.app/"
+  description: "We offer open-source & free data science education to underrepresented students."
   twitter-card: true
   image: "images/logo_sara.png"
   
