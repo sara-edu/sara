@@ -14,8 +14,9 @@ include-in-header:
 
 # 1^st^ SARA Summer School - Sonipat<br>"Doing Research Using R"
 
-::: {.col}
+
 ::: {.card}
+
 Welcome to the SARA Summer School!
 
 The **1^st^ SARA Summer School for "Doing Research Using R"** will take place on **July 22-26, 2024.**
@@ -31,27 +32,97 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 [THERE IS NO TUITION FEE.]{.clr-red}
 
-[FOR FOOD AND ACCOMMODATION PAY $6000$ INR.]{.clr-red}
+[FOR FOOD AND ACCOMMODATION PAY 6000 INR.]{.clr-red}
 
 [REGISTRATION LINK:]{.clr-red} <https://tinyurl.com/3k4js6wp>
 
 :::
+:::
 
 <br>
 
-**Unlock Your Potential in Research, Statistics, and Data Science**
+::: {.centering}
+# Online Expert Lectures
 
-Don't let language barriers or fear of math hold you back. At our summer school, we're here to show you that anyone can master the art of research. Whether you're a beginner or just need a confidence boost, our program is designed to cultivate a deep friendship with research, statistics, and data science.
+<!-- [Guest session will be online.]{.p-mission} -->
 
-Our comprehensive curriculum consists of five courses meticulously crafted to guide you through every essential aspect of conducting research using powerful data science tools. From foundational principles to advanced techniques, we'll be with you every step of the way, providing expert support and guidance.
+::: {.layout-grid}
 
-Join us this summer and embark on a transformative journey towards unlocking your full potential in research, statistics, and data science. Let's turn your curiosity into expertise and your apprehension into confidence.
+::: {.col}
+::: {.card}
+
+![](images/babu-sir.jpg)
+
+**Dr. Babu George**
+
+Professor of Management
+
+Alcorn State University
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/sam-madam.jpg)
+
+**Samantha BacBride** 
+
+Adj Asst Professor
+
+Baruch College
+
+:::
+:::
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/babu-sir.jpg) -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/babu-sir.jpg) -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/babu-sir.jpg) -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+:::
+
+:::
+
+
+<br>
+
+::: {.card}
+
+<!-- Don't let language barriers or fear of math hold you back. At our summer school, we're here to show you that anyone can master the art of research. Whether you're a beginner or just need a confidence boost, our program is designed to cultivate a deep friendship with research, statistics, and data science. -->
+
+<!-- Our comprehensive curriculum consists of five courses meticulously crafted to guide you through every essential aspect of conducting research using powerful data science tools. From foundational principles to advanced techniques, we'll be with you every step of the way, providing expert support and guidance. -->
+
+<!-- Join us this summer and embark on a transformative journey towards unlocking your full potential in research, statistics, and data science. Let's turn your curiosity into expertise and your apprehension into confidence. -->
 
 ## Courses
 
-Immerse yourself in the world of research with data science through the SARA Summer School. Led by esteemed educator [Dr. Ajay Kumar Koli](https://koliajay.netlify.app/), our intensive training program is designed to equip participants with the essential skills and knowledge needed to excel in the field.
+**Unlock Your Potential in Research, Statistics, and Data Science**
 
-In addition to Dr. Ajay Kumar Koli's expertise, participants will have the unique opportunity to learn from five distinguished guest lecturers comprising exceptional international faculty. Their insights and experiences will enrich your learning journey, providing valuable perspectives from across the globe.
+Immerse yourself in the world of research with data science through the SARA Summer School. Led by educator [Dr. Ajay Kumar Koli](https://koliajay.netlify.app/), our intensive training program is designed to equip participants with the essential skills and knowledge needed to excel in the field.
+
+In addition to Dr. Ajay Kumar Koli's expertise, participants will have the unique opportunity to learn from distinguished guest lecturers comprising exceptional international faculty. Their insights and experiences will enrich your learning journey, providing valuable perspectives from across the globe.
 
 Participants will be doing the following courses:
 
@@ -119,14 +190,14 @@ Participants will be doing the following courses:
     - Reference management
     - Learn using GitHub
     - Make your own website
-    
+
 ## Food & Accommodation
 
 We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
 
 At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
 
-As part of our commitment to sustainability and minimizing plastic waste, we kindly ask all participants to **[bring their own reusable eating utensils and bed sheet.]{.clr-blue}**.
+As part of our commitment to sustainability and minimizing plastic waste, we kindly ask all participants to **[bring their own reusable eating utensils and bed sheet.]{.clr-blue}**
 
 ### Food
 
@@ -195,7 +266,6 @@ Join us on a journey of learning and discovery!
 :::
 :::
 
-:::
 :::
 
 <br>
