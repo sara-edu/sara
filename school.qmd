@@ -77,19 +77,19 @@ Baruch College, USA.
 :::
 :::
 
-::: {.col}
-::: {.card}
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
 
-![](images/indra-bhai.jpg)
+<!-- ![](images/indra-bhai.jpg) -->
 
-**Indrajeet Patil** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/indrajeet-patil-397865174/)
+<!-- **Indrajeet Patil** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/indrajeet-patil-397865174/) -->
 
-Software Engineer
+<!-- Software Engineer -->
 
-Preisenergie, Germany.
+<!-- Preisenergie, Germany. -->
 
-:::
-:::
+<!-- ::: -->
+<!-- ::: -->
 
 <!-- ::: {.col} -->
 <!-- ::: {.card} -->
@@ -197,8 +197,23 @@ Participants will be doing the following courses:
     - Reference management
     - Learn using GitHub
     - Make your own website
+    
+:::
 
-## Food & Accommodation
+<br>
+
+::: {.card}
+
+## Food & Accommodation, Supported By
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
 
 We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
 
@@ -208,7 +223,7 @@ As part of our commitment to sustainability and minimizing plastic waste, we kin
 
 ### Food
 
-Delight in vegetarian meals served for breakfast, lunch, and dinner. 
+Enjoy vegetarian meals served for breakfast, lunch, and dinner. 
 
 ### Accommodation
 
@@ -239,6 +254,7 @@ Sonipat is easily accessible by road, with well-maintained highways connecting i
 Once you reach Sonipat, you can easily get around the city using auto-rickshaws, cycle rickshaws, or taxis. Public buses also ply on various routes within the city and to nearby areas.
 
 Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
+
 :::
 
 <br>
@@ -250,11 +266,15 @@ Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
 **There is no tuition fee for any participant.** The fee of Rs. 6000 /- includes only the food and accommodation for ten days (20-28 July) at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
 
 <!-- <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form> -->
-::: {.centering}
 
-![](images/qr-code.png){width=20%}
+::: {.layout-grid}
 
-:::    
+::: {.col}
+![](images/qr-code.png){width=60%}
+:::
+
+:::
+    
 
 ## Cancellation Policy
 
@@ -266,7 +286,7 @@ Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
   
   - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Summer School.
   
-For further details about the summer school, courses, instructors, financial assistance, food, and accommodation please contact:
+**For further details about the summer school, courses, instructors, financial assistance, food, and accommodation please contact:**
 
 {{< fa envelope >}} sara.institute.info@gmail.com.
 
@@ -274,20 +294,9 @@ For further details about the summer school, courses, instructors, financial ass
 
 All participants receive an ungraded certificate of attendance on the last day of the SARA Summer School.
 
+Participants should bring their own laptop.
+
 Join us on a journey of learning and discovery!
-
-## PARTNERS {.centering}
-
-::: {.layout-grid}
-
-::: {.col}
-![](images/sonipat-bhawan.png)
-:::
-
-::: {.col}
-![](images/alcorn.png)
-:::
-:::
 
 :::
 
