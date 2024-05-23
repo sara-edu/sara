@@ -16,7 +16,25 @@ include-in-header:
 # 1^st^ SARA Summer School - Sonipat<br>"Doing Research Using R"
 
 
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+![](images/flyer-summer.jpeg)
+
+[{{< fa file-pdf >}} Download above Flyer](flyer-sara-summer.pdf)
+
+::: {.col}
+:::
+
+:::
+:::
+
 ::: {.card}
+
+::: {.centering}
 
 Welcome to the SARA Summer School!
 
@@ -26,16 +44,28 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 <br>
 
-::: {.centering}
-[REGISTRATION FOR THE 2024 SARA SUMMER SCHOOL IS NOW OPEN!]{.clr-red}
 
-[ORGANIZED ONLY FOR SC/ST/OBC/EWS.]{.clr-red}
+[REGISTRATION FOR THE 2024 SARA SUMMER SCHOOL IS NOW OPEN!]{.clr-blue}
 
-[THERE IS NO TUITION FEE.]{.clr-red}
+[ORGANIZED ONLY FOR SC/ST/OBC/EWS.]{.clr-blue}
 
-[FOR FOOD AND ACCOMMODATION PAY 6000 INR.]{.clr-red}
+[THERE IS NO TUITION FEE.]{.clr-blue}
 
-[REGISTRATION LINK:]{.clr-red} <https://tinyurl.com/3k4js6wp>
+[FOR FOOD AND ACCOMMODATION PAY Rs. 6000-/.]{.clr-blue}
+
+It includes food and accommodation for nine days:
+
+*20 & 21 July: Arrival of the participants.*
+
+*22 to 26 July: Classes of the participants.*
+
+*27 & 28 July: Departure of the participants.*
+	
+### [A 40% Discount for First 15 Participants.]{.clr-red}	
+	
+[Payment Link](https://razorpay.me/@sarainstitute?amount=%2FUsBcigXrbAgyaosFhf3aw%3D%3D)
+
+[Registration Link](https://tinyurl.com/3k4js6wp)
 
 :::
 :::
@@ -204,7 +234,7 @@ Participants will be doing the following courses:
 
 ::: {.card}
 
-## Food & Accommodation, Supported By
+## Food & Accommodation, supported By
 
 ::: {.layout-grid}
 
@@ -270,7 +300,13 @@ Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
 ::: {.layout-grid}
 
 ::: {.col}
-![](images/qr-code.png){width=60%}
+:::
+
+::: {.col}
+![](images/qr-code.png){width=70%}
+:::
+
+::: {.col}
 :::
 
 :::
