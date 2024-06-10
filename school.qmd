@@ -107,6 +107,20 @@ Baruch College, USA.
 :::
 :::
 
+::: {.col}
+::: {.card}
+
+![](images/damni.jpg)
+
+**Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+PhD Candidate
+
+University of Cambridge, UK.
+
+:::
+:::
+
 <!-- ::: {.col} -->
 <!-- ::: {.card} -->
 
