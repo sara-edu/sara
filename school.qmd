@@ -182,66 +182,167 @@ Participants will be doing the following courses:
 **22-26 July 2024**
 
 - Day 1 (22 July): Introduction to data science
-    
-    - *Online Expert lecture*
-    - R & RStudio
-    - Types of operators
-    - RStudio project
-    - Coding using console, script & quarto
-    - Structure of R function
-    - R packages
-    - Create objects
-    - Communicate using quarto
-    - Help from R community
 
+::: {.panel-tabset}
+
+## Online expert lecture
+
+*Yet to be announced.*
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- R & RStudio. 
+- Types of operators.  
+- RStudio project.  
+- Coding using console, script & quarto. 
+- Structure of R function.  
+- R packages.  
+- Create objects. 
+- Communicate using quarto. 
+- Help from R community.  
+
+:::
+    
 - Day 2 (23 July): Data Visualization
 
-    - *Online Expert lecture*
-    - Introduction & first steps
-    - ggplot2 calls
-    - Visualizing distributions
-    - Visualizing relationships
-    - Saving your plots
-    - Common problems
+::: {.panel-tabset}
+
+## Online Expert lecture
+
+*Yet to be announced.*
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Introduction & first steps. 
+- ggplot2 calls. 
+- Visualizing distributions. 
+- Visualizing relationships.  
+- Saving your plots.     
+- Common problems.  
+    
+:::    
 
 - Day 3 (24 July): Research Design in Social Sciences
 
-    - *Online Expert lecture*
-    - Research framework
-    - Research approaches
-    - Ethics in research
-    - Literature review and its tools
-    - Levels of measurement
-    - Sampling and its types
-    - Quantiative methods and analysis
-    - Qualitative methods and analysis
+::: {.panel-tabset}
+
+## Online Expert lecture
+
+::: {.layout-grid}
+
+::: {.col}
+
+::: {.card}
+
+![](images/sam-madam.jpg)
+
+**Samantha BacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+Adj Asst Professor
+
+Baruch College, USA.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/damni.jpg)
+
+**Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+PhD Candidate
+
+University of Cambridge, UK.
+
+:::
+:::
+:::
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Research framework.  
+- Research approaches.  
+- Ethics in research.  
+- Literature review and its tools.  
+- Levels of measurement.  
+- Sampling and its types.  
+- Quantitative methods and analysis.  
+- Qualitative methods and analysis.
+
+:::
 
 - Day 4 (25 July): Quantitative Data Analysis
 
-    - *Online Expert lecture*
-    - Data and table manners
-    - Average and percentiles
-    - Spreads
-    - Transforming data
-    - The normal distribution
-    - From samples to populations
-    - Getting confident
-    - Fun with proportions
-    - Correlation and regression
+::: {.panel-tabset}
+
+## Online Expert lecture
+
+*Yet to be announced.*
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+    
+- Data and table manners.  
+- Average and percentiles.  
+- Spreads.  
+- Transforming data.  
+- The normal distribution.  
+- From samples to populations.     
+- Getting confident. 
+- Fun with proportions.  
+- Correlation and regression.  
+
+:::
 
 - Day 5 (26 July): Publish using R and GitHub
 
-    - *Online Expert lecture*
-    - Reproducible research
-    - Dynamic thesis, articles and slides.
-    - Add links and images
-    - Prepare list
-    - Write equations
-    - Prepare tables
-    - Reference management
-    - Learn using GitHub
-    - Make your own website
+::: {.panel-tabset}
+
+## Online Expert lecture
+
+::: {.layout-grid}
+
+::: {.col}
+
+::: {.card}
+
+![](images/babu-sir.jpg)
+
+**Dr. Babu George** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
+
+Professor of Management
+
+Alcorn State University, USA.
+
+:::
+:::
+:::
+
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Reproducible research.  
+- Dynamic thesis, articles and slides.
+- Add links and images.  
+- Prepare list.  
+- Write equations.  
+- Prepare tables.  
+- Reference management.  
+- Learn using GitHub.  
+- Make your own website.  
     
+:::
 :::
 
 <br>
