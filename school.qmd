@@ -121,6 +121,28 @@ University of Cambridge, UK.
 :::
 :::
 
+::: {.col}
+
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/jay.jpg)
+
+**Jay Bharat Choudhari** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+MSc in Data, Inequality and Society
+
+University of Edinburgh, UK.
+:::
+:::
+
+::: {.col}
+
+:::
+
+
 <!-- ::: {.col} -->
 <!-- ::: {.card} -->
 
@@ -177,17 +199,38 @@ Each day will start with a guest lecturer (around 45-55 minutes) from a distingu
 
 Participants will be doing the following courses:
 
-**5 days courses (9 am to 12:30 pm & 1:30 pm to 6 pm; 40 hours):**
+<br>
+
+**5 Days Courses (9 am to 12:30 pm & 1:30 pm to 6 pm; 40 hours):**
 
 **22-26 July 2024**
 
-- Day 1 (22 July): Introduction to data science
+<br>
+
+🗓️ **Day 1 (22 July): Introduction to data science**
 
 ::: {.panel-tabset}
 
 ## Online expert lecture
 
-*Yet to be announced.*
+::: {.layout-grid}
+
+::: {.col}
+
+::: {.card}
+
+![](images/jay.jpg)
+
+**Jay Bharat Choudhari** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+MSc in Data, Inequality and Society
+
+University of Edinburgh, UK.
+
+:::
+:::
+:::
+
 
 ## In-person sessions
 
@@ -204,8 +247,10 @@ Faculty: Dr. Ajay Kumar Koli
 - Help from R community.  
 
 :::
+
+<br>
     
-- Day 2 (23 July): Data Visualization
+🗓 **Day 2 (23 July): Data Visualization**
 
 ::: {.panel-tabset}
 
@@ -224,9 +269,11 @@ Faculty: Dr. Ajay Kumar Koli
 - Saving your plots.     
 - Common problems.  
     
-:::    
+:::  
 
-- Day 3 (24 July): Research Design in Social Sciences
+<br>
+
+🗓 **Day 3 (24 July): Research Design in Social Sciences**
 
 ::: {.panel-tabset}
 
@@ -279,7 +326,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 :::
 
-- Day 4 (25 July): Quantitative Data Analysis
+<br>
+
+🗓 **Day 4 (25 July): Quantitative Data Analysis**
 
 ::: {.panel-tabset}
 
@@ -303,7 +352,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 :::
 
-- Day 5 (26 July): Publish using R and GitHub
+<br>
+
+🗓 **Day 5 (26 July): Publish using R and GitHub**
 
 ::: {.panel-tabset}
 
@@ -326,7 +377,6 @@ Alcorn State University, USA.
 :::
 :::
 :::
-
 
 ## In-person sessions
 
