@@ -11,6 +11,7 @@ website:
   description: "We offer open-source & free data science education to underrepresented students."
   twitter-card: true
   image: "images/logo_sara.png"
+  cookie-consent: true
   
   #cookie-consent: true
   

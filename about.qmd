@@ -15,7 +15,7 @@ include-in-header:
 
 ---
 
-# An Ambedkarite Mission
+# Mission
 
 [SARA Institute is dedicated to empowering underrepresented communities in India through data science education. Our mission is to cultivate a vibrant data science community where individuals from all backgrounds can thrive, learn, and contribute to society.]{.p-mission}
 
@@ -56,7 +56,7 @@ At SARA, we believe in the power of education without barriers. That's why we of
 
 Before embarking on their mission with SARA, Dr. Ajay and Dr. Kiran served as full-time Assistant Professors at various private universities. Today, their sole focus is on nurturing SARA Institute's educational initiatives.
 
-Based in Sonipat, they reside in a rented house, juggling their roles as educators and recently embracing parenthood with the arrival of their beautiful daughter.
+Based in Sonipat, they reside in a rented house, juggling their roles as educators and recently embracing parenthood with the arrival of their ❤️ beautiful daughter.
 
 Their journey is indebted to the support and collaboration of the Ambedkar Educational Society, Sonipat, for graciously permitting SARA Institute to conduct classes at the esteemed Ambedkar Bhawan, Sonipat.
 
