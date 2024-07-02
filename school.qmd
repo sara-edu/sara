@@ -98,7 +98,7 @@ Alcorn State University, USA.
 
 ![](images/sam-madam.jpg)
 
-**Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
 Adj Asst Professor
 
@@ -287,7 +287,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 ![](images/sam-madam.jpg)
 
-**Samantha BacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
 Adj Asst Professor
 
