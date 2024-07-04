@@ -24,7 +24,7 @@ include-in-header:
 ::: {.col}
 ![](images/flyer-summer.jpeg)
 
-[{{< fa file-pdf >}} Download above Flyer](flyer-sara-summer.pdf)
+[{{< fa file-pdf >}} Download above Flyer](documents/flyer-sara-summer.pdf)
 
 ::: {.col}
 :::
@@ -122,10 +122,6 @@ University of Cambridge, UK.
 :::
 
 ::: {.col}
-
-:::
-
-::: {.col}
 ::: {.card}
 
 ![](images/jay.jpg)
@@ -135,6 +131,20 @@ University of Cambridge, UK.
 MSc in Data, Inequality and Society
 
 University of Edinburgh, UK.
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/isaac.jpg)
+
+**Adanvo Isaac Houngnigbe** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+
+Biostatistician, Benin
+
+Center of Excellence in Epidemiology and Data Science
+
 :::
 :::
 
@@ -211,26 +221,9 @@ Participants will be doing the following courses:
 
 ::: {.panel-tabset}
 
-## Online expert lecture
+## Online Expert Lecture
 
-::: {.layout-grid}
-
-::: {.col}
-
-::: {.card}
-
-![](images/jay.jpg)
-
-**Jay Bharat Choudhari** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
-
-MSc in Data, Inequality and Society
-
-University of Edinburgh, UK.
-
-:::
-:::
-:::
-
+**Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
 
 ## In-person sessions
 
@@ -254,7 +247,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 ::: {.panel-tabset}
 
-## Online Expert lecture
+## Online Expert Lecture
 
 *Yet to be announced.*
 
@@ -277,39 +270,12 @@ Faculty: Dr. Ajay Kumar Koli
 
 ::: {.panel-tabset}
 
-## Online Expert lecture
+## Online Expert Lecture
 
-::: {.layout-grid}
+**Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
-::: {.col}
 
-::: {.card}
-
-![](images/sam-madam.jpg)
-
-**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
-
-Adj Asst Professor
-
-Baruch College, USA.
-
-:::
-:::
-
-::: {.col}
-::: {.card}
-
-![](images/damni.jpg)
-
-**Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
-
-PhD Candidate
-
-University of Cambridge, UK.
-
-:::
-:::
-:::
+**Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
 
 ## In-person sessions
 
@@ -332,9 +298,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 ::: {.panel-tabset}
 
-## Online Expert lecture
+## Online Expert Lecture
 
-*Yet to be announced.*
+**Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
 
 ## In-person sessions
 
@@ -358,25 +324,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 ::: {.panel-tabset}
 
-## Online Expert lecture
+## Online Expert Lecture
 
-::: {.layout-grid}
-
-::: {.col}
-
-::: {.card}
-
-![](images/babu-sir.jpg)
-
-**Dr. Babu George** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
-
-Professor of Management
-
-Alcorn State University, USA.
-
-:::
-:::
-:::
+**Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
 
 ## In-person sessions
 
