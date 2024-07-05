@@ -143,12 +143,24 @@ University of Edinburgh, UK.
 
 Biostatistician, Benin
 
-Center of Excellence in Epidemiology and Data Science
+Center of Excellence in Epidemiology and Data Science.
 
 :::
 :::
 
 ::: {.col}
+::: {.card}
+
+![](images/deepak.jpg)
+
+**Dr. Deepak Malghan** | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+
+Assistant Professor
+
+IIM Bangalore, IN.
+
+:::
+
 
 :::
 
@@ -223,7 +235,9 @@ Participants will be doing the following courses:
 
 ## Online Expert Lecture
 
-**Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+- **Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -272,10 +286,15 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-**Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+- **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
+    {{< fa clock >}} 9 AM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
-**Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+---
+
+- **Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -300,7 +319,15 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-**Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+- **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+
+    {{< fa clock >}} 9 AM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    
+---    
+
+- **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+
+    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -326,7 +353,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-**Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
+- **Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
+
+    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
