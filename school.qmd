@@ -1,5 +1,6 @@
 ---
 pagetitle: "Schools"
+#date: last-modified
 #toc: true
 #linestretch: 3
 #backgroundcolor: "#e9e9e9"
@@ -61,11 +62,11 @@ It includes food and accommodation for nine days:
 
 *27 & 28 July: Departure of the participants.*
 	
-### [A 40% Discount for First 15 Participants.]{.clr-red}	
+### [~~A 40% Discount for First 15 Participants is over.~~]{.clr-red}	
 	
-[Payment Link](https://razorpay.me/@sarainstitute?amount=%2FUsBcigXrbAgyaosFhf3aw%3D%3D)
+[Payment Link](https://rzp.io/i/L9pSEIHC)
 
-[Registration Link](https://tinyurl.com/3k4js6wp)
+[Registration Link](https://forms.gle/5xtQCMtAyZDSpfMQ9)
 
 :::
 :::
@@ -235,9 +236,13 @@ Participants will be doing the following courses:
 
 ## Online Expert Lecture
 
-- **Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+- {{< fa atom >}} ***[Data Science for Under-Represented Communities in India.]{style="color:#008080"}***
 
-    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    {{< fa user >}} **Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+    {{< fa clock >}} 22 JULY 5 PM IST (UTC+05:30).
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -263,7 +268,13 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-*Yet to be announced.*
+- {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+    
+
+    {{< fa clock >}} 24 JULY 5 PM IST (UTC+05:30). 
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -286,15 +297,24 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-- **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+- {{< fa atom >}} ***[Preparing for Higher Education Abroad.]{style="color:#008080"}***
 
-    {{< fa clock >}} 9 AM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    {{< fa user >}} **Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+    {{< fa clock >}} 24 JULY 9 AM IST (UTC+05:30). 
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ---
 
-- **Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+- {{< fa atom >}} ***[Research Methods: An Introduction for Everyone.]{style="color:#008080"}***
 
-    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+
+    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+    {{< fa clock >}} 24 JULY 5 PM IST (UTC+05:30). 
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -319,15 +339,23 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-- **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+-  {{< fa atom >}} ***[Numbers, they are Part of our Everyday Life.]{style="color:#008080"}***
 
-    {{< fa clock >}} 9 AM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    {{< fa user >}} **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+
+    {{< fa atom >}} ***Numbers, they're part of our everyday life.***
+
+    {{< fa clock >}} 9 AM IST (UTC+05:30). 
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
     
 ---    
 
-- **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+- {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
 
-    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    {{< fa clock >}} 25 JULY 5 PM IST (UTC+05:30)
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
@@ -353,9 +381,13 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-- **Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
+- {{< fa atom >}} ***[Scholarship with Soul: Crafting a Meaningful Academic Identity]{style="color:#008080"}.***
 
-    {{< fa clock >}} 5 PM IST (UTC+05:30) &nbsp;&nbsp; {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
+
+    {{< fa clock >}} 26 JULY 5 PM IST (UTC+05:30). 
+    
+    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
 
 ## In-person sessions
 
