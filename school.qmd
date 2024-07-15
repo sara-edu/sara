@@ -240,9 +240,9 @@ Participants will be doing the following courses:
 
     {{< fa user >}} **Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
 
-    {{< fa clock >}} 22 JULY 5 PM IST (UTC+05:30).
+    {{< fa clock >}} 22 JULY 5 PM IST.
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ## In-person sessions
 
@@ -270,11 +270,9 @@ Faculty: Dr. Ajay Kumar Koli
 
 - {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
+    {{< fa clock >}} 24 JULY 5 PM IST. 
     
-
-    {{< fa clock >}} 24 JULY 5 PM IST (UTC+05:30). 
-    
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ## In-person sessions
 
@@ -301,9 +299,9 @@ Faculty: Dr. Ajay Kumar Koli
 
     {{< fa user >}} **Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
 
-    {{< fa clock >}} 24 JULY 9 AM IST (UTC+05:30). 
+    {{< fa clock >}} 24 JULY 9 AM IST. 
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ---
 
@@ -312,9 +310,9 @@ Faculty: Dr. Ajay Kumar Koli
 
     {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
-    {{< fa clock >}} 24 JULY 5 PM IST (UTC+05:30). 
+    {{< fa clock >}} 24 JULY 5 PM IST. 
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ## In-person sessions
 
@@ -343,19 +341,17 @@ Faculty: Dr. Ajay Kumar Koli
 
     {{< fa user >}} **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
 
-    {{< fa atom >}} ***Numbers, they're part of our everyday life.***
-
-    {{< fa clock >}} 9 AM IST (UTC+05:30). 
+    {{< fa clock >}} 9 AM IST. 
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
     
 ---    
 
 - {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
 
-    {{< fa clock >}} 25 JULY 5 PM IST (UTC+05:30)
+    {{< fa clock >}} 25 JULY 5 PM IST.
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ## In-person sessions
 
@@ -385,9 +381,9 @@ Faculty: Dr. Ajay Kumar Koli
 
     {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
 
-    {{< fa clock >}} 26 JULY 5 PM IST (UTC+05:30). 
+    {{< fa clock >}} 26 JULY 5 PM IST. 
     
-    {{< fa brands youtube >}} *Live-stream link yet to be shared.*
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
 ## In-person sessions
 
