@@ -142,6 +142,8 @@ PhD Candidate
 
 University of Cambridge, UK.
 
+DBA Lead at Project EduAccess.
+
 :::
 :::
 
@@ -330,7 +332,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 - {{< fa atom >}} ***[Preparing for Higher Education Abroad.]{style="color:#008080"}***
 
-    {{< fa user >}} **Damni Kain**, PhD Candidate, University of Cambridge, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+    {{< fa user >}} **Damni Kain**, PhD Candidate, University of Cambridge, UK and  DBA Lead at Project EduAccess. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
 
     {{< fa clock >}} 24 JULY 9 AM IST. 
     
@@ -341,7 +343,7 @@ Faculty: Dr. Ajay Kumar Koli
 - {{< fa atom >}} ***[Research Methods: An Introduction for Everyone.]{style="color:#008080"}***
 
 
-    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
 
     {{< fa clock >}} 24 JULY 5 PM IST. 
     
@@ -372,15 +374,17 @@ Faculty: Dr. Ajay Kumar Koli
 
 -  {{< fa atom >}} ***[Numbers, they are Part of our Everyday Life.]{style="color:#008080"}***
 
-    {{< fa user >}} **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+    {{< fa user >}} **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
 
-    {{< fa clock >}} 9 AM IST. 
+    {{< fa clock >}} 25 JULY 9 AM IST. 
     
     <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
     
 ---    
 
-- {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+- {{< fa atom >}} ***[Validity, Rigor, and Proof in the Social Sciences]{style="color:#008080"}***
+
+    {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN. [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
 
     {{< fa clock >}} 25 JULY 5 PM IST.
     
@@ -412,7 +416,7 @@ Faculty: Dr. Ajay Kumar Koli
 
 - {{< fa atom >}} ***[Scholarship with Soul: Crafting a Meaningful Academic Identity]{style="color:#008080"}.***
 
-    {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
+    {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
 
     {{< fa clock >}} 26 JULY 5 PM IST. 
     

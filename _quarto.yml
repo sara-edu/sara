@@ -16,7 +16,7 @@ website:
     icon: rocket-takeoff
     dismissable: true
     content: "1st Data Science SARA Summer School, 22-26 July, 2024"
-    type: secondary
+    type: primary
     position: below-navbar
   
   
