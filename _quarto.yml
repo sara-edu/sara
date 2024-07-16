@@ -12,6 +12,13 @@ website:
   twitter-card: true
   image: "images/logo_sara.png"
   cookie-consent: true
+  announcement: 
+    icon: rocket-takeoff
+    dismissable: true
+    content: "1st Data Science SARA Summer School, 22-26 July, 2024"
+    type: secondary
+    position: below-navbar
+  
   
   #cookie-consent: true
   

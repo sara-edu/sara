@@ -74,9 +74,32 @@ It includes food and accommodation for nine days:
 <br>
 
 ::: {.centering}
+# [KEYNOTE SPEAKER]{style="color:#008080"}
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/tankiso.jpg)
+
+**Dr. Tankiso Moloi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+
+Professor and Academic Director
+
+University of Johannesburg, ZA.
+
+:::
+:::
+:::
+:::
+
+::: {.centering}
 # Online Expert Lectures
 
-<!-- [Guest session will be online.]{.p-mission} -->
 
 ::: {.layout-grid}
 
@@ -230,11 +253,19 @@ Participants will be doing the following courses:
 
 <br>
 
-🗓️ **Day 1 (22 July): Introduction to data science**
+🗓️ **Day 1 (22 July): Introduction to Data Science**
 
 ::: {.panel-tabset}
 
 ## Online Expert Lecture
+
+- {{< fa atom >}} ***[Keynote Lecture]{style="color:#008080"}***
+
+    {{< fa user >}} **Dr. Tankiso Moloi** Professor and Academic Director University of Johannesburg, ZA. | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+    
+    {{< fa clock >}} 22 JULY 11:30 AM IST.
+
+---
 
 - {{< fa atom >}} ***[Data Science for Under-Represented Communities in India.]{style="color:#008080"}***
 
@@ -268,9 +299,11 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-- {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+- {{< fa atom >}} ***[A Visual Introduction to Data Visualization.]{style="color:#008080"}***
 
-    {{< fa clock >}} 24 JULY 5 PM IST. 
+    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+    {{< fa clock >}} 23 JULY 5 PM IST. 
     
     <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
 
