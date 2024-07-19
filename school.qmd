@@ -186,8 +186,23 @@ Assistant Professor
 IIM Bangalore, IN.
 
 :::
+:::
 
+::: {.col}
 
+:::
+
+::: {.col}
+::: {.card}
+![](images/gopinath.jpg)
+
+**Gopinath Annadurai** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/connect-gopinath/)
+
+PhD Candidate
+
+IIM Bangalore, IN.
+
+:::
 :::
 
 
@@ -382,7 +397,7 @@ Faculty: Dr. Ajay Kumar Koli
     
 ---    
 
-- {{< fa atom >}} ***[Validity, Rigor, and Proof in the Social Sciences]{style="color:#008080"}***
+- {{< fa atom >}} ***[Validity, Rigor, and Proof in the Social Sciences.]{style="color:#008080"}***
 
     {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN. [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
 
@@ -414,7 +429,17 @@ Faculty: Dr. Ajay Kumar Koli
 
 ## Online Expert Lecture
 
-- {{< fa atom >}} ***[Scholarship with Soul: Crafting a Meaningful Academic Identity]{style="color:#008080"}.***
+- {{< fa atom >}} ***[Improving First-Generation College Students' Education and Employment Outcomes.]{style="color:#008080"}.***
+
+     {{< fa user >}} **Gopinath Annadurai**, PhD Candidate, IIM Bangalore, IN. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/connect-gopinath/)
+
+    {{< fa clock >}} 26 JULY 9 AM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+    
+---    
+
+- {{< fa atom >}} ***[Scholarship with Soul: Crafting a Meaningful Academic Identity.]{style="color:#008080"}.***
 
     {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
 
