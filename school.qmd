@@ -16,6 +16,8 @@ include-in-header:
 
 # 1^st^ SARA Summer School - Sonipat<br>"Doing Research Using R"
 
+![](images/summer-school-day5.jpeg)
+
 
 ::: {.layout-grid}
 
@@ -28,6 +30,7 @@ include-in-header:
 [{{< fa file-pdf >}} Download above Flyer](documents/flyer-sara-summer.pdf)
 
 ::: {.col}
+
 :::
 
 :::

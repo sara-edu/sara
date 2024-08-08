@@ -13,9 +13,9 @@ website:
   image: "images/logo_sara.png"
   cookie-consent: true
   announcement: 
-    icon: rocket-takeoff
+    icon: stars
     dismissable: true
-    content: "1st Data Science SARA Summer School, 22-26 July, 2024"
+    content: "Completed 1st SARA Data Science Summer School, 22-26 July, 2024"
     type: primary
     position: below-navbar
   
@@ -52,7 +52,7 @@ website:
         href: https://github.com/sara-edu
         aria-label: GitHub
       - icon: linkedin
-        href: https://www.linkedin.com/company/sara-institute-of-data-science/
+        href: https://www.linkedin.com/company/sara-institute/
         aria-label: LinkedIn  
     right: "[Terms & Conditions](terms.qmd)"
     border: true
