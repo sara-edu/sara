@@ -14,9 +14,11 @@ include-in-header:
 
 ---
 
-# 1^st^ SARA Summer School - Sonipat<br>"Doing Research Using R"
+# 1^st^ SARA Data Science Summer School - Sonipat<br>"Reproducible Research Using R"
 
-![](images/summer-school-day5.jpeg)
+We sincerely thank all our participants and speakers to join the 1st SARA Data Science Summer School.
+
+![](images/summer-school-students-july24.jpeg)
 
 
 ::: {.layout-grid}

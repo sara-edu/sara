@@ -27,9 +27,9 @@ include-in-header:
 
 <br>
 
-[Donations made to SARA Institute are not eligible for tax exemption.]{.clr-red}
+[Donations made to SARA Institute are eligible for tax exemption.]{.clr-blue}
 
-[We are also not eligible to accept international donations.]{.clr-red}
+[We are not eligible to accept international donations.]{.clr-red}
 
 :::
 
