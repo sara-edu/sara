@@ -15,7 +15,7 @@ website:
   announcement: 
     icon: stars
     dismissable: true
-    content: "Completed 1st SARA Data Science Summer School, 22-26 July, 2024"
+    content: "Registration Open for Winter School 'Statistics for All' December 16 - 20, 2024. [More Info](winter.html)"
     type: primary
     position: below-navbar
   
@@ -32,8 +32,12 @@ website:
         text: About
       - href: courses.qmd
         text: Courses
-      - href: school.qmd
-        text: Schools
+      - text: Schools
+        menu:
+          - text: Summer
+            href: summer.qmd
+          - text: Winter
+            href: winter.qmd
       - href: contact.qmd
         text: Contact
       - href: donate.qmd
@@ -53,7 +57,10 @@ website:
         aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/company/sara-institute/
-        aria-label: LinkedIn  
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/@SARADataScience
+        aria-label: YouTube  
     right: "[Terms & Conditions](terms.qmd)"
     border: true
     

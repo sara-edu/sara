@@ -1,0 +1,182 @@
+---
+pagetitle: "Winter School"
+#date: last-modified
+#toc: true
+#linestretch: 3
+backgroundcolor: "#e9e9e9"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# "STATISTICS FOR ALL" <br><br> SARA Data Science Winter School 2024
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+
+![](images/winter2024/flyer.png)
+
+[{{< fa file-pdf >}} Download above Flyer](documents/flyer-winter.pdf)
+
+::: {.col}
+
+:::
+
+:::
+:::
+
+::: {.card}
+
+::: {.centering}
+
+Welcome to the SARA Data Science Winter School!
+
+The **1^st^ SARA Data Science Winter School "Statistics for All"** will take place on **December 16 - 20, 2024.**
+
+The classes will be offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+<br>
+
+
+[REGISTRATION FOR THE 2024 SARA DATA SCIENCE WINTER SCHOOL IS NOW OPEN!]{.clr-blue}
+
+### [ORGANIZED ONLY FOR SC/ST/OBC]{.clr-blue}
+
+[THERE IS NO TUITION FEE.]{.clr-blue}
+
+[FOR FOOD AND ACCOMMODATION PAY Rs. 6000.]{.clr-blue}
+
+*15 December: Arrival of the participants.*
+
+*16 to 20 December: Classes for the participants.*
+
+*21 December: Departure of the participants.*
+	
+### [A 40% Discount for the First 15 Participants is available.]{.clr-red}	
+	
+[Payment Link](https://razorpay.me/@sarainstitute)
+
+[Registration Link](https://tinyurl.com/4phufkw2)
+
+:::
+:::
+
+<br>
+
+::: {.card}
+
+## Courses
+
+- Introduction to Statistics.
+
+- Probability and Distributions.
+
+- Hypothesis Testing and Confidence Intervals.
+
+- Introduction to Regression Analysis.
+
+- Introduction to GitHub.
+
+*Further details regarding the course modules will be provided shortly. Stay tuned for updates on the curriculum, including specific topics, and key skills covered in each module.*
+
+:::
+<br>
+
+::: {.card}
+
+## Food & Accommodation, supported By
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+
+We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+
+At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
+
+### Food
+
+Enjoy vegetarian meals served for breakfast, lunch, and dinner. 
+
+### Accommodation
+
+- For Female Participants: You'll be accommodated in a dedicated "female only" common hall furnished with beds, mattresses, and shared desert coolers. Rest assured, you'll have access to a "female only" shared bathroom for your convenience and privacy.
+
+- For Male Participants: Two male participants will be comfortably lodged in a "male only" sharing room within the premises. Additionally, they will have access to a "male only" shared bathroom for their comfort and convenience.
+
+We are committed to making your stay enjoyable and memorable. Should you have any special requirements or concerns, please don't hesitate to reach out to our team. We look forward to hosting you and creating wonderful memories together at Dr. Ambedkar Bhawan. 
+
+## Travel Guidelines
+
+Here are some travel guidelines to reach Sonipat, Haryana:
+
+**By Air:**
+The nearest airport to Sonipat is Indira Gandhi International Airport (DEL) in New Delhi, which is approximately 75 kilometers away. From the airport, you can hire a taxi or take a bus to reach Sonipat.
+
+**By Train:**
+Sonipat is well-connected by rail to major cities across India. The Sonipat Railway Station is situated on the Northern Railway network and serves as an important junction. You can check for trains to Sonipat from your departure point and book tickets accordingly.
+
+**By Road:**
+Sonipat is easily accessible by road, with well-maintained highways connecting it to nearby cities like Delhi, Chandigarh, and Jaipur. You can either drive to Sonipat or opt for bus services operated by state transport or private operators. 
+
+- If you're coming from Delhi, you can take NH44 or NH9 to reach Sonipat, which is approximately a 1.5 to 2-hour drive depending on traffic conditions.
+- From Chandigarh, you can take NH44 via Ambala and continue towards Sonipat.
+- If you're traveling from Jaipur, you can take NH48 and NH352A to reach Sonipat.
+
+**Local Transportation:**
+Once you reach Sonipat, you can easily get around the city using auto-rickshaws, cycle rickshaws, or taxis. Public buses also ply on various routes within the city and to nearby areas.
+
+Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
+
+:::
+
+<br>
+
+
+::: {.card}
+
+## Fee
+
+**There is no tuition fee for any participant.** The fee of Rs. 6000 includes only the food and accommodation for five days (December 16 - 20) at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+## Cancellation Policy
+
+  - Registered participants requesting to withdraw from the SARA Winter School within two weeks of payment receive a full refund of the food and accommodation fees less an administrative charge of 500 INR.
+  
+  - Withdrawals received more than two weeks after payment has been made and before **[Sunday, November 10, 2024]{.clr-blue}**, receive a 50% refund. No refunds will be given for withdrawals after **[Sunday, November 10, 2024]{.clr-blue}**.
+  
+  - Registered participants on winter school canceled by the SARA Institute will be offered a full refund of their food and accommodation fees.
+  
+  - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Winter School.
+  
+**For further details about the winter school, courses, instructors, financial assistance, food, and accommodation please contact:**
+
+{{< fa envelope >}} sara.institute.info@gmail.com.
+
+{{< fa phone >}} Mobile number: 925 315 2024
+
+All participants receive an ungraded certificate of attendance on the last day of the SARA Winter School.
+
+Participants should bring their own laptop.
+
+Embark on an exciting journey of learning and exploration with us!
+
+Know about our previous data science [school](summer.html).
+
+:::
+
+<br>

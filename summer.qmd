@@ -1,0 +1,581 @@
+---
+pagetitle: "Summer School"
+#date: last-modified
+#toc: true
+#linestretch: 3
+#backgroundcolor: "#e9e9e9"
+include-in-header: 
+  text: |
+    <style type="text/css">
+      h2, .h2 {
+        border-bottom: none;
+      }
+    </style>
+
+---
+
+# 1^st^ SARA Data Science Summer School - <br>"Reproducible Research Using R"
+
+We sincerely thank all our participants and speakers to join the 1st SARA Data Science Summer School.
+
+{{< video https://youtu.be/Yh5GaURxfXA?si=8ridBmNIC4rJK5MS >}}
+
+![](images/summer-school-students-july24.jpeg)
+
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+![](images/flyer-summer.jpeg)
+
+<!-- [{{< fa file-pdf >}} Download above Flyer](documents/flyer-sara-summer.pdf) -->
+
+::: {.col}
+
+:::
+
+:::
+:::
+
+::: {.card}
+
+::: {.centering}
+
+Welcome to the SARA Summer School!
+
+The **1^st^ SARA Summer School for "Doing Research Using R"** will take place on **July 22-26, 2024.**
+
+The classes will be offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+<br>
+
+
+[REGISTRATION FOR THE 2024 SARA SUMMER SCHOOL IS NOW CLOSED!]{.clr-blue}
+
+[ORGANIZED ONLY FOR SC/ST/OBC/EWS.]{.clr-blue}
+
+[THERE IS NO TUITION FEE.]{.clr-blue}
+
+[FOR FOOD AND ACCOMMODATION PAY Rs. 6000-/.]{.clr-blue}
+
+It includes food and accommodation for nine days:
+
+*20 & 21 July: Arrival of the participants.*
+
+*22 to 26 July: Classes of the participants.*
+
+*27 & 28 July: Departure of the participants.*
+	
+### [~~A 40% Discount for First 15 Participants is over.~~]{.clr-red}	
+	
+[Payment Link](https://razorpay.me/@sarainstitute)
+
+[Registration Link](https://forms.gle/5xtQCMtAyZDSpfMQ9)
+
+:::
+:::
+
+<br>
+
+::: {.centering}
+# [KEYNOTE SPEAKER]{style="color:#008080"}
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/tankiso.jpg)
+
+**Dr. Tankiso Moloi** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+
+Professor and Academic Director
+
+University of Johannesburg, ZA.
+
+:::
+:::
+:::
+:::
+
+::: {.centering}
+# Online Expert Lectures
+
+
+::: {.layout-grid}
+
+::: {.col}
+::: {.card}
+
+![](images/babu-sir.jpg)
+
+**Dr. Babu George** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/)
+
+Professor of Management
+
+Alcorn State University, USA.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/sam-madam.jpg)
+
+**Dr. Samantha MacBride** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+Adj Asst Professor
+
+Baruch College, USA.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/damni.jpg)
+
+**Damni Kain** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+PhD Candidate
+
+University of Cambridge, UK.
+
+DBA Lead at Project EduAccess.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/jay.jpg)
+
+**Jay Bharat Choudhari** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+MSc in Data, Inequality and Society
+
+University of Edinburgh, UK.
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/isaac.jpg)
+
+**Adanvo Isaac Houngnigbe** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+
+Biostatistician, Benin
+
+Center of Excellence in Epidemiology and Data Science.
+
+:::
+:::
+
+::: {.col}
+::: {.card}
+
+![](images/deepak.jpg)
+
+**Dr. Deepak Malghan** | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+
+Assistant Professor
+
+IIM Bangalore, IN.
+
+:::
+:::
+
+::: {.col}
+
+:::
+
+::: {.col}
+::: {.card}
+![](images/gopinath.jpg)
+
+**Gopinath Annadurai** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/connect-gopinath/)
+
+PhD Candidate
+
+IIM Bangalore, IN.
+
+:::
+:::
+
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/indra-bhai.jpg) -->
+
+<!-- **Indrajeet Patil** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/indrajeet-patil-397865174/) -->
+
+<!-- Software Engineer -->
+
+<!-- Preisenergie, Germany. -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/babu-sir.jpg) -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+
+<!-- ::: {.col} -->
+<!-- ::: {.card} -->
+
+<!-- ![](images/babu-sir.jpg) -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+:::
+
+:::
+
+
+<br>
+
+::: {.card}
+
+<!-- Don't let language barriers or fear of math hold you back. At our summer school, we're here to show you that anyone can master the art of research. Whether you're a beginner or just need a confidence boost, our program is designed to cultivate a deep friendship with research, statistics, and data science. -->
+
+<!-- Our comprehensive curriculum consists of five courses meticulously crafted to guide you through every essential aspect of conducting research using powerful data science tools. From foundational principles to advanced techniques, we'll be with you every step of the way, providing expert support and guidance. -->
+
+<!-- Join us this summer and embark on a transformative journey towards unlocking your full potential in research, statistics, and data science. Let's turn your curiosity into expertise and your apprehension into confidence. -->
+
+## Courses
+
+**Unlock Your Potential in Research, Statistics, and Data Science**
+
+Immerse yourself in the world of research with data science through the SARA Summer School. Our intensive training program is designed to equip participants with the essential skills and knowledge needed to excel in conducting research using data science tool [R](https://www.r-project.org/about.html).
+
+Each day will start with a guest lecturer (around 45-55 minutes) from a distinguished international faculty. Later, [Ajay Kumar Koli](https://koliajay.netlify.app/) will teach most of the courses.
+
+Participants will be doing the following courses:
+
+<br>
+
+**5 Days Courses (9 am to 12:30 pm & 1:30 pm to 6 pm; 40 hours):**
+
+**22-26 July 2024**
+
+<br>
+
+🗓️ **Day 1 (22 July): Introduction to Data Science**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+- {{< fa atom >}} ***[Keynote Lecture]{style="color:#008080"}***
+
+    {{< fa user >}} **Dr. Tankiso Moloi** Professor and Academic Director University of Johannesburg, ZA. | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tankiso-moloi-fcma-cgma-b9443615/)
+    
+    {{< fa clock >}} 22 JULY 11:30 AM IST.
+
+---
+
+- {{< fa atom >}} ***[Data Science for Under-Represented Communities in India.]{style="color:#008080"}***
+
+    {{< fa user >}} **Jay Bharat Choudhari**, MSc in Data, Inequality and Society, University of Edinburgh, UK | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jay-bharat-choudhari-ba6161204/)
+
+    {{< fa clock >}} 22 JULY 5 PM IST.
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- R & RStudio. 
+- Types of operators.  
+- RStudio project.  
+- Coding using console, script & quarto. 
+- Structure of R function.  
+- R packages.  
+- Create objects. 
+- Communicate using quarto. 
+- Help from R community.  
+
+:::
+
+<br>
+    
+🗓 **Day 2 (23 July): Data Visualization**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+- {{< fa atom >}} ***[A Visual Introduction to Data Visualization.]{style="color:#008080"}***
+
+    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+    {{< fa clock >}} 23 JULY 5 PM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Introduction & first steps. 
+- ggplot2 calls. 
+- Visualizing distributions. 
+- Visualizing relationships.  
+- Saving your plots.     
+- Common problems.  
+    
+:::  
+
+<br>
+
+🗓 **Day 3 (24 July): Research Design in Social Sciences**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+- {{< fa atom >}} ***[Preparing for Higher Education Abroad.]{style="color:#008080"}***
+
+    {{< fa user >}} **Damni Kain**, PhD Candidate, University of Cambridge, UK and  DBA Lead at Project EduAccess. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/damni-kain-b21a73220/)
+
+    {{< fa clock >}} 24 JULY 9 AM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+---
+
+- {{< fa atom >}} ***[Research Methods: An Introduction for Everyone.]{style="color:#008080"}***
+
+
+    {{< fa user >}} **Dr. Samantha MacBride**, Adj Asst Professor, Baruch College, USA. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-macbride-1664815/)
+
+    {{< fa clock >}} 24 JULY 5 PM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Research framework.  
+- Research approaches.  
+- Ethics in research.  
+- Literature review and its tools.  
+- Levels of measurement.  
+- Sampling and its types.  
+- Quantitative methods and analysis.  
+- Qualitative methods and analysis.
+
+:::
+
+<br>
+
+🗓 **Day 4 (25 July): Quantitative Data Analysis**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+-  {{< fa atom >}} ***[Numbers, they are Part of our Everyday Life.]{style="color:#008080"}***
+
+    {{< fa user >}} **Adanvo Isaac Houngnigbe**, Biostatistician, Center of Excellence in Epidemiology and Data Science, Benin. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
+
+    {{< fa clock >}} 25 JULY 9 AM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+    
+---    
+
+- {{< fa atom >}} ***[Validity, Rigor, and Proof in the Social Sciences.]{style="color:#008080"}***
+
+    {{< fa user >}} **Dr. Deepak Malghan**, Assistant Professor, IIM Bangalore, IN. [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
+
+    {{< fa clock >}} 25 JULY 5 PM IST.
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+    
+- Data and table manners.  
+- Average and percentiles.  
+- Spreads.  
+- Transforming data.  
+- The normal distribution.  
+- From samples to populations.     
+- Getting confident. 
+- Fun with proportions.  
+- Correlation and regression.  
+
+:::
+
+<br>
+
+🗓 **Day 5 (26 July): Publish using R and GitHub**
+
+::: {.panel-tabset}
+
+## Online Expert Lecture
+
+- {{< fa atom >}} ***[Improving First-Generation College Students' Education and Employment Outcomes.]{style="color:#008080"}.***
+
+     {{< fa user >}} **Gopinath Annadurai**, PhD Candidate, IIM Bangalore, IN. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/connect-gopinath/)
+
+    {{< fa clock >}} 26 JULY 9 AM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+    
+---    
+
+- {{< fa atom >}} ***[Scholarship with Soul: Crafting a Meaningful Academic Identity.]{style="color:#008080"}.***
+
+    {{< fa user >}} **Dr. Babu George**, Professor of Management, Alcorn State University, USA. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/beingbabu/).
+
+    {{< fa clock >}} 26 JULY 5 PM IST. 
+    
+    <!-- {{< fa brands youtube >}} *Live-stream link yet to be shared.* -->
+
+## In-person sessions
+
+Faculty: Dr. Ajay Kumar Koli
+
+- Reproducible research.  
+- Dynamic thesis, articles and slides.
+- Add links and images.  
+- Prepare list.  
+- Write equations.  
+- Prepare tables.  
+- Reference management.  
+- Learn using GitHub.  
+- Make your own website.  
+    
+:::
+:::
+
+<br>
+
+::: {.card}
+
+## Food & Accommodation, supported By
+
+::: {.layout-grid}
+
+::: {.col}
+![](images/sonipat-bhawan.png)
+:::
+
+:::
+
+
+We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+
+At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
+
+As part of our commitment to sustainability and minimizing plastic waste, we kindly ask all participants to **[bring their own reusable eating utensils and bed sheet.]{.clr-blue}**
+
+### Food
+
+Enjoy vegetarian meals served for breakfast, lunch, and dinner. 
+
+### Accommodation
+
+- For Female Participants: You'll be accommodated in a dedicated "female only" common hall furnished with beds, mattresses, and shared desert coolers. Rest assured, you'll have access to a "female only" shared bathroom for your convenience and privacy.
+
+- For Male Participants: Two male participants will be comfortably lodged in a "male only" sharing room within the premises. Additionally, they will have access to a "male only" shared bathroom for their comfort and convenience.
+
+We are committed to making your stay enjoyable and memorable. Should you have any special requirements or concerns, please don't hesitate to reach out to our team. We look forward to hosting you and creating wonderful memories together at Dr. Ambedkar Bhawan. 
+
+## Travel Guidelines
+
+Here are some travel guidelines to reach Sonipat, Haryana:
+
+**By Air:**
+The nearest airport to Sonipat is Indira Gandhi International Airport (DEL) in New Delhi, which is approximately 75 kilometers away. From the airport, you can hire a taxi or take a bus to reach Sonipat.
+
+**By Train:**
+Sonipat is well-connected by rail to major cities across India. The Sonipat Railway Station is situated on the Northern Railway network and serves as an important junction. You can check for trains to Sonipat from your departure point and book tickets accordingly.
+
+**By Road:**
+Sonipat is easily accessible by road, with well-maintained highways connecting it to nearby cities like Delhi, Chandigarh, and Jaipur. You can either drive to Sonipat or opt for bus services operated by state transport or private operators. 
+
+- If you're coming from Delhi, you can take NH44 or NH9 to reach Sonipat, which is approximately a 1.5 to 2-hour drive depending on traffic conditions.
+- From Chandigarh, you can take NH44 via Ambala and continue towards Sonipat.
+- If you're traveling from Jaipur, you can take NH48 and NH352A to reach Sonipat.
+
+**Local Transportation:**
+Once you reach Sonipat, you can easily get around the city using auto-rickshaws, cycle rickshaws, or taxis. Public buses also ply on various routes within the city and to nearby areas.
+
+Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
+
+:::
+
+<br>
+
+::: {.card}
+
+## Fee
+
+**There is no tuition fee for any participant.** The fee of Rs. 6000 /- includes only the food and accommodation for ten days (20-28 July) at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
+
+<!-- <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form> -->
+
+::: {.layout-grid}
+
+::: {.col}
+:::
+
+::: {.col}
+![](images/qr-code.png){width=70%}
+:::
+
+::: {.col}
+:::
+
+:::
+    
+
+## Cancellation Policy
+
+  - Registered participants requesting to withdraw from the SARA Summer School within two weeks of payment receive a full refund of the food and accommodation fees less an administrative charge of 500 INR.
+  
+  - Withdrawals received more than two weeks after payment has been made and before **[Thursday, June 20, 2024]{.clr-blue}**, receive a 50% refund. No refunds will be given for withdrawals after **[Thursday, June 20, 2024]{.clr-blue}**.
+  
+  - Registered participants on summer school canceled by the SARA Institute will be offered a full refund of their food and accommodation fees.
+  
+  - The SARA Institute is not liable for travel and other expenses incurred in connection with the SARA Summer School.
+  
+**For further details about the summer school, courses, instructors, financial assistance, food, and accommodation please contact:**
+
+{{< fa envelope >}} sara.institute.info@gmail.com.
+
+{{< fa phone >}} Mobile number: 925 315 2024
+
+All participants receive an ungraded certificate of attendance on the last day of the SARA Summer School.
+
+Participants should bring their own laptop.
+
+Join us on a journey of learning and discovery!
+
+:::
+
+<br>
+
