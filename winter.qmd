@@ -14,7 +14,7 @@ include-in-header:
 
 ---
 
-# "STATISTICS FOR ALL" <br><br> SARA Data Science Winter School 2024
+# "STATISTICS USING R" <br><br> SARA Data Science Winter School 2024
 
 ::: {.layout-grid}
 
@@ -23,7 +23,7 @@ include-in-header:
 
 ::: {.col}
 
-![](images/winter2024/flyer.png)
+![](images/winter2024/flyer-winter.png)
 
 [{{< fa file-pdf >}} Download above Flyer](documents/flyer-winter.pdf)
 
@@ -40,7 +40,7 @@ include-in-header:
 
 Welcome to the SARA Data Science Winter School!
 
-The **1^st^ SARA Data Science Winter School "Statistics for All"** will take place on **December 16 - 20, 2024.**
+The **SARA Data Science Winter School "Statistics using R"** will take place on **December 16 - 20, 2024.**
 
 The classes will be offered physically in-person at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
 
