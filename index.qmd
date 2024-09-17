@@ -112,7 +112,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 ::: {.column-screen}
 
-![](images/students_first_sara.jpg){width=100% fig-alt="First batch data science students at SARA."}
+![](images/first_class1.jpg){width=100% fig-alt="First batch data science students at SARA."}
 :::
 
 

@@ -149,8 +149,6 @@ PhD Candidate
 
 University of Cambridge, UK.
 
-DBA Lead at Project EduAccess.
-
 :::
 :::
 
@@ -170,20 +168,6 @@ University of Edinburgh, UK.
 ::: {.col}
 ::: {.card}
 
-![](images/isaac.jpg)
-
-**Adanvo Isaac Houngnigbe** | [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adanvo-isaac-houngnigbe-8077a3136/)
-
-Biostatistician, Benin
-
-Center of Excellence in Epidemiology and Data Science.
-
-:::
-:::
-
-::: {.col}
-::: {.card}
-
 ![](images/deepak.jpg)
 
 **Dr. Deepak Malghan** | [{{< fa brands twitter >}}](https://x.com/deepak_malghan)
@@ -193,10 +177,6 @@ Assistant Professor
 IIM Bangalore, IN.
 
 :::
-:::
-
-::: {.col}
-
 :::
 
 ::: {.col}

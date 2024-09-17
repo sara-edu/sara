@@ -26,12 +26,16 @@ website:
     search: false
     pinned: true
     right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: courses.qmd
-        text: Courses
+      - text: Home
+        href: index.qmd
+      - text: About
+        menu: 
+          - text: About  
+            href: about.qmd
+          - text: Timeline
+            href: timeline.qmd
+      - text: Courses
+        href: courses.qmd
       - text: Schools
         menu:
           - text: Summer
