@@ -67,3 +67,12 @@ Thank you for your interest in the SARA Institute. We look forward to hearing fr
 :::
 
 <br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

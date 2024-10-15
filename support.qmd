@@ -1,5 +1,5 @@
 ---
-pagetitle: "Donate"
+pagetitle: "Support"
 #page-layout: full
 #backgroundcolor: "#e9e9e9"
 #format: html
@@ -19,11 +19,7 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-<br>
-
 ::: {.centering}
-
-<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
 <br>
 
@@ -31,7 +27,35 @@ include-in-header:
 
 [We are not eligible to accept international donations.]{.clr-red}
 
+<br>
+
+### STEP 1: In your mobile scan this QR Code
+
+![](images/donate1.png){width=40%}
+
+----
+
+### STEP 2: In your mobile click at the "Open Link"
+
+![](images/donate2.jpeg){width=25%}
+
+----
+
+### STEP 3: In your mobile enter the amount
+
+![](images/donate3.jpeg){width=25%}
+
 :::
+:::
+
+<br>
+
+::: {.col}
+::: {.card}
+
+## Support SARA on Social Media.
+
+<br>[{{< fa brands github size=2x >}}](https://github.com/sara-edu) &nbsp;[{{< fa brands twitter size=2x >}}](https://twitter.com/sara_institute) &nbsp; [{{< fa brands facebook size=2x >}}](https://www.facebook.com/profile.php?id=61564043738390) &nbsp; [{{< fa brands youtube size=2x >}}](https://www.youtube.com/@SARADataScience) &nbsp; [{{< fa brands linkedin size=2x >}}](https://www.linkedin.com/company/sara-institute/) &nbsp; [{{< fa brands whatsapp size=2x >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
 
 <br>
 
@@ -43,7 +67,23 @@ Join us in creating a world where education knows no bounds. Together, we can pa
 
 Thank you for your generosity and for being a part of our journey towards a brighter tomorrow. For more information kindly reach us at <sara.institute.info@gmail.com>
 
+<br>
+
+**{{< fa phone >}}**
+Call us: 925 315 2024 
+
+<br>
+
 :::
 :::
 
 <br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

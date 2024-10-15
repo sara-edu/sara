@@ -24,8 +24,12 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
+::: {.centering}
+
 ![](images/visit-rj.jpg){width=45%}
 ![](images/visit-hr.jpg){width=45%}
+
+:::
 
 ## Educating tomorrow's data scientists
 
@@ -45,8 +49,10 @@ At SARA Institute, we believe that education is a fundamental human right and a 
 ::: {.col}
 ::: {.card}
 
-![](images/founders_sara.jpg){width=45%}
+::: {.centering}
+![](images/founders_sara.jpg){width=51%}
 ![](images/koli-family.jpg){width=45%}
+:::
 
 ## Who we are
 
@@ -65,3 +71,12 @@ With a steadfast commitment to excellence and inclusivity, Dr. Ajay and Dr. Kira
 :::
 
 <br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

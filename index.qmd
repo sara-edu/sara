@@ -57,7 +57,7 @@ You will learn how to use a personal computer,  components of computers, how to
 
 Learning computer skills enhances employability, facilitate efficient communication, information retrieval, and collaboration.
 
-[Learn more](courses.qmd)
+[Learn more](computer-course/computer-course.qmd)
 
 :::
 :::
@@ -71,7 +71,7 @@ Learning computer skills enhances employability, facilitate efficient communicat
 
 Uncovering hidden patterns to drive decision making and innovation using data science education.
 
-[Learn more](courses.qmd)
+[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
 
 :::
 
@@ -83,7 +83,7 @@ Uncovering hidden patterns to drive decision making and innovation using data sc
 
 Scholars can Learn a systematic approach to investigate, analyse, and interpreting information quantitative and qualitative.
 
-[Learn more](courses.qmd)
+[Learn more](r-lang/2024-r-lang/r-bootcamp-2024.qmd)
 :::
 :::
 
@@ -97,7 +97,7 @@ Scholars can Learn a systematic approach to investigate, analyse, and interpreti
 
 Learning English enhanced global communication, opens doors to diverse cultures, facilitates travel, and provides a competitive edge in the global job market.
 
-[Learn more](courses.qmd)
+[Learn more](english-course/english-course.qmd)
 
 :::
 :::
@@ -105,7 +105,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 :::
 
 ::: {.button}
-[Apply now](courses.qmd)
+[Contact Us To Know More](contact.qmd)
 :::
 
 :::
@@ -139,11 +139,11 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 <br>
 
 ::: {.flex-container}
-![](images/ajay.png){width=75%}<br>Dr. Ajay Koli, PhD<br>Founder & Executive Director, SARA.
+![](images/ajay.png){width=75%}<br>Dr. Ajay Koli, PhD<br>Co-founder & Executive Director, SARA Institute.
 
-![](images/kiran.png){width=75%}<br>Dr. Kiran Koli, PhD<br>Founder & Director, SARA.
+![](images/kiran.png){width=75%}<br>Dr. Kiran Koli, PhD<br>Co-founder & Director, SARA Institute.
 
-[Home](index.qmd) <br><br> [About](about.qmd) <br><br> [Courses](courses.qmd) <br><br> [Schools](summer.qmd) <br><br> [Contact](contact.qmd) <br><br> [Donate](donate.qmd)
+[Home](index.qmd) <br><br> [About](about.qmd) <br><br> [Courses](index.qmd) <br><br> [Trainings](index.qmd) <br><br>  [Support](support.qmd) <br><br> [Contact](contact.qmd) 
 
 :::
 
@@ -151,6 +151,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 [Your support and participation<br> are invaluable as we embark on this journey together.]{.p-mission}
 
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
 <br>
 :::

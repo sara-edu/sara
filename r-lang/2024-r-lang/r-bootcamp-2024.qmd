@@ -1,5 +1,8 @@
 ---
-pagetitle: "Summer School"
+title: "Reproducible Research Using R"
+subtitle: "SARA Data Science Bootcamp 2024"
+pagetitle: SARA
+#author: Dr. Ajay Kumar Koli
 #date: last-modified
 #toc: true
 #linestretch: 3
@@ -14,9 +17,9 @@ include-in-header:
 
 ---
 
-# 1^st^ SARA Data Science Summer School - <br>"Reproducible Research Using R"
+<br>
 
-We sincerely thank all our participants and speakers to join the 1st SARA Data Science Summer School.
+We extend our heartfelt thanks to all the participants, speakers, and supporters for their invaluable contributions in making the SARA Data Science Bootcamp a resounding success.
 
 {{< video https://youtu.be/Yh5GaURxfXA?si=8ridBmNIC4rJK5MS >}}
 
@@ -516,22 +519,7 @@ Safe travels, and we look forward to welcoming you to Sonipat, Haryana!
 
 **There is no tuition fee for any participant.** The fee of Rs. 6000 /- includes only the food and accommodation for ten days (20-28 July) at the SARA Institute, Dr. Ambedkar Bhawan, Sonipat, Haryana - 131001.
 
-<!-- <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form> -->
-
-::: {.layout-grid}
-
-::: {.col}
-:::
-
-::: {.col}
-![](images/qr-code.png){width=70%}
-:::
-
-::: {.col}
-:::
-
-:::
-    
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
 ## Cancellation Policy
 
@@ -559,3 +547,11 @@ Join us on a journey of learning and discovery!
 
 <br>
 
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

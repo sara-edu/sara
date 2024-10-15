@@ -14,48 +14,129 @@ include-in-header:
 
 ---
 
-# Terms & Conditions
+# Terms and Conditions
 
 ::: {.col}
 ::: {.card}
 
-Last updated on Apr 26th 2024
+Welcome to the **SARA Institute of Data Science**. By enrolling in our courses or using our website, you agree to comply with and be bound by the following terms and conditions. Please review the terms carefully before proceeding with any course registration or participation in our programs.
 
-For the purpose of these Terms and Conditions, The term "we", "us", "our" used anywhere on this page shall mean SARA EDUCATION TRUST, whose registered/operational office is B-98, Rama Park, Uttam Nagar, West Delhi West Delhi DELHI 110059 . "you", “your”, "user", “visitor” shall mean any natural or legal person who is visiting our website and/or agreed to purchase from us.
+---
 
-**Your use of the website and/or purchase from us are governed by following Terms and Conditions:**
+## 1. General Information
 
-- The content of the pages of this website is subject to change without notice.
+- These Terms and Conditions apply to all participants of courses offered by the **SARA Institute of Data Science**.
 
-- Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+- By registering for any course, you acknowledge that you have read, understood, and agree to these terms.
 
-- Your use of any information or materials on our website and/or product pages is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through our website and/or product pages meet your specific requirements.
+- We reserve the right to update these terms at any time without prior notice. Your continued use of our services signifies your acceptance of any such changes.
 
-- Our website contains material which is owned by or licensed to us. This material includes, but are not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
+---
 
-- All trademarks reproduced in our website which are not the property of, or licensed to, the operator are acknowledged on the website.
+## 2. Course Enrollment
 
-- Unauthorized use of information provided by us shall give rise to a claim for damages and/or be a criminal offense.
+- Enrollment in our courses is open to individuals of all ages and educational backgrounds.
 
-- From time to time our website may also include links to other websites. These links are provided for your convenience to provide further information.
+- Participants are required to provide accurate personal information during the registration process. Any false or incomplete information may lead to cancellation of enrollment.
 
-- You may not create a link to our website from another website or document without SARA EDUCATION TRUST’s prior written consent.
+- Enrollment is confirmed only after the full payment of course fees, where applicable.
 
-- Any dispute arising out of use of our website and/or purchase with us and/or any engagement with us is subject to the laws of India .
+---
 
-- We, shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time
+## 3. Payment Terms
 
-**Refund Policy**
+- Course fees must be paid in full before the commencement of the course. We accept payments through various online and offline modes, as specified during the registration process.
 
-- General Policy: At SARA, we do not charge any fee for education. Still, we strive to provide a fair and transparent refund process for our students. This policy outlines the circumstances under which refunds will be granted for tuition, fees, and other associated costs. Our goal is to ensure that students understand their financial obligations and the conditions under which they may be eligible for a refund.
+- Fees may vary based on the course and specific packages offered. Participants will be informed of all fees before registration.
 
-- Refunds will be processed within 30 days of receiving the completed request form and all required documentation. Refunds will be issued via the original payment method whenever possible.
+---
 
-- Financial Aid and Scholarships: If the student received financial aid or scholarships, the refund amount might be adjusted based on the rules governing those funds. 
+## 4. Refund Policy
 
-- This refund policy is subject to change without prior notice. Students are encouraged to review the policy regularly and consult the Registrar’s Office for the most current information.
+- **Course Cancellation by SARA**: If the course is canceled or rescheduled by the **SARA Institute of Data Science**, participants will be entitled to a full refund of the course fee or an option to enroll in a future session.
+
+- **Cancellation by Participant**: If a participant wishes to cancel their enrollment, the following refund policy applies:
+
+  - **Cancellation 14 days or more before the course start date**: Full refund of the course fee.
+  
+  - **Cancellation 7-13 days before the course start date**: 50% refund of the course fee.
+  
+  - **Cancellation less than 7 days before the course start date**: No refund will be issued.
+  
+- **Non-Refundable Fees**: Any registration or processing fees are non-refundable, regardless of the cancellation time frame.
+
+---
+
+## 5. Course Modifications
+
+- The **SARA Institute of Data Science** reserves the right to make changes to the course content, schedule, or instructor if necessary. Participants will be notified of any significant changes in advance.
+
+- In the event of significant course modifications, participants may request to transfer to a different course or receive a pro-rated refund based on the portion of the course attended.
+
+---
+
+## 6. Code of Conduct
+
+- Participants are expected to behave in a respectful and professional manner throughout the course. This includes interaction with instructors, staff, and fellow participants.
+
+- Any disruptive, offensive, or inappropriate behavior may result in removal from the course without a refund.
+
+- Participants are prohibited from sharing or distributing course materials without prior permission from the **SARA Institute of Data Science**.
+
+---
+
+## 7. Intellectual Property
+
+- All course materials, including videos, documents, presentations, and exercises, are the intellectual property of the **SARA Institute of Data Science**. They are provided for personal use only and may not be reproduced, distributed, or shared in any form without prior written consent.
+
+---
+
+## 8. Liability
+
+- The **SARA Institute of Data Science** is not liable for any personal injury, loss, or damage to property that occurs during participation in its courses or events.
+
+- While we strive to offer high-quality educational experiences, the **SARA Institute** makes no guarantees regarding personal outcomes or career advancement resulting from course completion.
+
+---
+
+## 9. Privacy Policy
+
+- We are committed to protecting your privacy. Any personal information collected during course registration or participation will be handled in accordance with our [Privacy Policy](privacy.qmd).
+
+- Your data will not be shared with third parties without your consent, except as required by law.
+
+---
+
+## 10. Governing Law
+
+- These Terms and Conditions are governed by and construed in accordance with the laws of India. Any disputes arising from these terms will be subject to the exclusive jurisdiction of the courts in Haryana.
+
+---
+
+## 11. Contact Us
+
+If you have any questions about these Terms and Conditions or our refund policies, please contact us at:
+
+**SARA Institute of Data Science** 
+
+Email: <sara.institute.info@gmail.com>  
+
+Phone: 925 315 2024
+
+---
+
+By enrolling in our courses, you agree to abide by the above Terms and Conditions. Thank you for choosing the **SARA Institute of Data Science**, and we look forward to helping you achieve your learning goals!
 
 :::
 :::
 
 <br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+This page was last updated on `r now()`

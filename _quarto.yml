@@ -10,13 +10,13 @@ website:
   site-url: "https://sara-edu.netlify.app/"
   description: "We offer open-source & free data science education to underrepresented students."
   twitter-card: true
-  image: "images/logo_sara.png"
+  image: "images/banner-sara.png"
   cookie-consent: true
   announcement: 
     icon: stars
     dismissable: true
-    content: "Registration Open for Winter School 'Statistics for All' December 16 - 20, 2024. [More Info](winter.html)"
-    type: primary
+    content: "Registration Open for Statistics Course, December 16 - 20, 2024. [More Info](stats/2024-stats-winter/stats-winter-2024.qmd)"
+    type: success
     position: below-navbar
   
   
@@ -30,28 +30,37 @@ website:
         href: index.qmd
       - text: About
         menu: 
-          - text: About  
+          - text: Mission  
             href: about.qmd
           - text: Timeline
             href: timeline.qmd
       - text: Courses
-        href: courses.qmd
-      - text: Schools
+        menu: 
+          - text: Computer Skills
+            href: computer-course/computer-course.qmd
+          - text: English Language
+            href: english-course/english-course.qmd
+      - text: Trainings
         menu:
-          - text: Summer
-            href: summer.qmd
-          - text: Winter
-            href: winter.qmd
-      - href: contact.qmd
-        text: Contact
-      - href: donate.qmd
-        text: Donate  
+          - text: Research Methods
+            href: research-methods/2025-summer-school/summer-school-2025.qmd
+          - text: R Langauge
+            href: r-lang/2024-r-lang/r-bootcamp-2024.qmd  
+          - text: Statistics
+            href: stats/2024-stats-winter/stats-winter-2024.qmd
+          - text: Publish with Quarto
+            href: publish-quarto/2025-quarto-bootcamp/quarto-bootcamp-2025.qmd
+      - text: Support 
+        href: support.qmd
+      - text: Contact
+        href: contact.qmd
+       
         
     
         
   page-footer:
     background: "#000033"
-    left: "SARA Institute &copy; 2023-present"
+    left: "SARA Institute &copy; 2023-2024"
     center:
       - icon: twitter-x
         href: https://twitter.com/sara_institute
@@ -65,7 +74,11 @@ website:
       - icon: youtube
         href: https://www.youtube.com/@SARADataScience
         aria-label: YouTube  
-    right: "[Terms & Conditions](terms.qmd)"
+      - icon: whatsapp
+        href: https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J
+        aria-label: WhatsApp  
+  
+    right: "[Privacy](privacy.qmd) | [Terms & Conditions](terms.qmd)"
     border: true
     
       
