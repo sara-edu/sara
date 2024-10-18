@@ -23,27 +23,68 @@ include-in-header:
 
 <br>
 
-[Donations made to SARA Institute are eligible for tax exemption.]{.clr-blue}
+[**Donations made to SARA Institute are eligible for tax exemption.**]{.clr-blue}
 
-[We are not eligible to accept international donations.]{.clr-red}
+<!-- [We are not eligible to accept international donations.]{.clr-red} -->
 
 <br>
 
+::: {.layout-grid}
+::: {.col}
+
+:::
+
+::: {.col}
+
 ### STEP 1: In your mobile scan this QR Code
 
-![](images/donate1.png){width=40%}
+![](images/donate1.png)
+:::
+
+::: {.col}
+
+:::
+:::
 
 ----
+
+::: {.layout-grid}
+::: {.col}
+
+:::
+
+::: {.col}
 
 ### STEP 2: In your mobile click at the "Open Link"
 
-![](images/donate2.jpeg){width=25%}
+![](images/donate2.jpeg)
+
+:::
+
+::: {.col}
+
+:::
+:::
 
 ----
 
+::: {.layout-grid}
+::: {.col}
+
+:::
+
+::: {.col}
+
 ### STEP 3: In your mobile enter the amount
 
-![](images/donate3.jpeg){width=25%}
+![](images/donate3.jpeg)
+
+:::
+
+::: {.col}
+
+:::
+:::
 
 :::
 :::
@@ -78,12 +119,3 @@ Call us: 925 315 2024
 :::
 
 <br>
-
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-This page was last updated on `r now()`

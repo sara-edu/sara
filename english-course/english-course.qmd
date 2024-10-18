@@ -46,9 +46,9 @@ This course is open to anyone who wants to improve their English language skills
 
 ### Course Format:
 
-- Duration: 6-8 weeks (flexible schedule)
+- Duration: 12 months
 
-- Mode: Online and in-person sessions available
+- Mode: Only in-person sessions available
 
 <!-- - Certification: Receive a certificate upon successful completion -->
 
@@ -65,12 +65,3 @@ Call us: 925 315 2024
 :::
 
 <br>
-
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-This page was last updated on `r now()`

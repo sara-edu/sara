@@ -1,8 +1,9 @@
 ---
 title: "Computer Skills"
 subtitle: "SARA Institute of Data Science"
-author: "Dr. Kiran Lata, PhD"
-date: last-modified
+pagetitle: "SARA - Courses"
+#author: "Dr. Kiran Lata, PhD"
+#date: last-modified
 ---
 
 ::: {.col}
@@ -44,7 +45,7 @@ The course is open to everyone, including students, working professionals, and c
 
 ### Course Format:
 
-- Duration: 4-6 weeks (flexible schedule)
+- Duration: 3 months
 
 - Mode: Only in-person sessions available
 
@@ -62,11 +63,4 @@ Call us: 925 315 2024
 :::
 :::
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-This page was last updated on `r now()`
+<br>

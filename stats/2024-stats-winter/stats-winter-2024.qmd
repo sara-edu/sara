@@ -1,5 +1,5 @@
 ---
-pagetitle: "Winter School"
+pagetitle: "SARA - Stats"
 #date: last-modified
 #date-format: "dddd MMM D, YYYY"
 #toc: true
@@ -81,7 +81,9 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 **December 16 -- 20, 2024**
 
-🗓 **Day 1: Introduction to Statistics**
+----
+
+🗓 [**Day 1: INTRODUCTION TO STATISTICS**]{.clr-blue}
 
 **Morning Session (10:00 AM – 1:00 PM)** 
 
@@ -95,7 +97,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 - Load a dataset and explore different data types using `str()`, `summary()`, and `glimpse()` functions.
 
-{{< fa coffee >}} *Lunch Break*
+{{< fa coffee >}} *Lunch Break* (1-2 PM)
 
 **Afternoon Session (2:00 PM – 5:00 PM)**  
 
@@ -109,7 +111,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 - Generate random and stratified samples using R’s `sample()` and `dplyr` package.
 
----
+----
 
 🗓 **Day 2: Descriptive Statistics**
 
@@ -208,20 +210,10 @@ Participants should bring their own laptop.
 
 Embark on an exciting journey of learning and exploration with us!
 
-Know about our previous data science [school](summer.html).
-
-:::
+Know about our previous data science [training](summer.html).
 
 <br>
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-
-This page was last updated on `r now()`
+:::
 
 <br>

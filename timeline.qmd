@@ -1,8 +1,8 @@
 ---
 title: "SARA Timeline"
-author: "SARA Team"
-pagetitle: "Story"
-date: last-modified
+#author: "SARA Team"
+pagetitle: "SARA - Story"
+#date: last-modified
 toc: true
 #linestretch: 3
 backgroundcolor: "#e9e9e9"

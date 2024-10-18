@@ -139,13 +139,30 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 <br>
 
 ::: {.flex-container}
-![](images/ajay.png){width=75%}<br>Dr. Ajay Koli, PhD<br>Co-founder & Executive Director, SARA Institute.
 
-![](images/kiran.png){width=75%}<br>Dr. Kiran Koli, PhD<br>Co-founder & Director, SARA Institute.
+::: {.layout-grid}
 
-[Home](index.qmd) <br><br> [About](about.qmd) <br><br> [Courses](index.qmd) <br><br> [Trainings](index.qmd) <br><br>  [Support](support.qmd) <br><br> [Contact](contact.qmd) 
+::: {.col}
+![](images/ajay.png){width=75%}<br>Dr. Ajay Koli, PhD<br>Co-founder & Exec. Director, SARA Institute.
 
 :::
+
+::: {.col}
+:::
+
+::: {.col}
+![](images/kiran.png){width=75%}<br>Dr. Kiran Koli, PhD<br>Co-founder & Director, SARA Institute.
+:::
+
+::: {.col}
+:::
+
+<!-- ::: {.col} -->
+<!-- [Home](index.qmd) <br><br> [About](about.qmd) <br><br> [Courses](index.qmd) <br><br> [Trainings](index.qmd) <br><br>  [Support](support.qmd) <br><br> [Contact](contact.qmd)  -->
+<!-- ::: -->
+:::
+:::
+
 
 <br>
 
@@ -154,4 +171,17 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_O57P0PBRJkiPSK" async> </script> </form>
 
 <br>
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(lubridate)
+```
+
+Last updated on `r format(now(), "%A, %d %B %Y %H:%m %p %Z")`
+
+<br>
 :::
+
+

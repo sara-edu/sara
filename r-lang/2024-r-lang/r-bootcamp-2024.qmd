@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Using R"
 subtitle: "SARA Data Science Bootcamp 2024"
-pagetitle: SARA
+pagetitle: "SARA - R Bootcamp"
 #author: Dr. Ajay Kumar Koli
 #date: last-modified
 #toc: true
@@ -546,12 +546,3 @@ Join us on a journey of learning and discovery!
 :::
 
 <br>
-
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-This page was last updated on `r now()`

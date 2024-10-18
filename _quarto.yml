@@ -16,7 +16,7 @@ website:
     icon: stars
     dismissable: true
     content: "Registration Open for Statistics Course, December 16 - 20, 2024. [More Info](stats/2024-stats-winter/stats-winter-2024.qmd)"
-    type: success
+    type: danger
     position: below-navbar
   
   
