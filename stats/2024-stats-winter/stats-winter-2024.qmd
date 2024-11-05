@@ -50,11 +50,11 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 [REGISTRATION FOR THE 2024 SARA DATA SCIENCE WINTER SCHOOL IS NOW OPEN!]{.clr-blue}
 
-### [ORGANIZED ONLY FOR SC/ST/OBC]{.clr-blue}
+### [ORGANIZED ONLY FOR UNDER-REPRESENTED COMMUNITIES]{.clr-blue}
 
-[THERE IS NO TUITION FEE.]{.clr-blue}
+[THERE IS NO TUITION FEE.]{.clr-navyblue}
 
-[FOR FOOD AND ACCOMMODATION PAY Rs. 6000.]{.clr-blue}
+[FOR FOOD AND ACCOMMODATION PAY Rs. 6000.]{.clr-navyblue}
 
 *15 December: Arrival of the participants.*
 
@@ -62,7 +62,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 *21 December: Departure of the participants.*
 	
-### [Only 13 spots left! Enjoy a 40% discount on food & accommodation for our Data Science Winter School. Hurry, offer valid until Nov 10, 2024, or until spots fill up—whichever comes first!]{.clr-red}	
+### [Only 12 spots left! Enjoy a 40% discount on food & accommodation for our Data Science Winter School. Hurry, offer valid until Nov 10, 2024, or until spots fill up—whichever comes first!]{.clr-tom}	
 	
 [Payment Link](https://razorpay.me/@sarainstitute)
 

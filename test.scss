@@ -6,15 +6,14 @@ $clr-gray:        #2A2121;
 $clr-blue:        #0061ab;
 $clr-cream:       #f2f2f2;
 $clr-white:       #fff;
-$clr-red:         #ff0000;
 $clr-tom:        #ef4338;
 
 .clr-blue {
   color: $clr-blue;
 }
 
-.clr-red {
-  color: $clr-red;
+.clr-tom {
+  color: $clr-tom;
 }
 
 .clr-cream {
@@ -42,7 +41,7 @@ $navbar-bg: $clr-navyblue;
 $navbar-fg: $clr-cream; //color of nav bar text
 $navbar-hl: $clr-cream; //nav bar text hover color
 
-$link-color: $clr-navyblue; //#2A2121;
+$link-color: $clr-tom; //#2A2121;
 
 h1{
   //font-family: "Poppins", sans-serif;

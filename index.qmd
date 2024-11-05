@@ -172,14 +172,7 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 <br>
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-library(lubridate)
-```
-
-Last updated on `r format(now(), "%A, %d %B %Y %H:%m %p %Z")`
+Last updated on {{< modified "%A, %d %B %Y" >}}
 
 <br>
 :::

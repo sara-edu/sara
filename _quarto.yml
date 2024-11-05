@@ -50,12 +50,13 @@ website:
             href: stats/2024-stats-winter/stats-winter-2024.qmd
           - text: Publish with Quarto
             href: publish-quarto/2025-quarto-bootcamp/quarto-bootcamp-2025.qmd
+      - text: News & Events
+        href: news.qmd
       - text: Support 
         href: support.qmd
       - text: Contact
         href: contact.qmd
-      - text: News & Events
-        href: news.qmd
+     
        
         
     
