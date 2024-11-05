@@ -11,7 +11,7 @@ website:
   description: "We offer open-source & free data science education to underrepresented students."
   twitter-card: true
   image: "images/banner-sara.png"
-  cookie-consent: true
+  cookie-consent: false
   announcement: 
     icon: stars
     dismissable: true
@@ -54,12 +54,14 @@ website:
         href: support.qmd
       - text: Contact
         href: contact.qmd
+      - text: News & Events
+        href: news.qmd
        
         
     
         
   page-footer:
-    background: "#000033"
+    background: "#003262"
     left: "SARA Institute &copy; 2023-2024"
     center:
       - icon: twitter-x

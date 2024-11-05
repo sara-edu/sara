@@ -1,12 +1,13 @@
 /*-- scss:defaults --*/
 
 // color system
-$clr-navyblue:    #000033;
+$clr-navyblue:    #003262;
 $clr-gray:        #2A2121;
 $clr-blue:        #0061ab;
 $clr-cream:       #f2f2f2;
 $clr-white:       #fff;
 $clr-red:         #ff0000;
+$clr-tom:        #ef4338;
 
 .clr-blue {
   color: $clr-blue;
@@ -41,7 +42,7 @@ $navbar-bg: $clr-navyblue;
 $navbar-fg: $clr-cream; //color of nav bar text
 $navbar-hl: $clr-cream; //nav bar text hover color
 
-$link-color: $clr-blue; //#2A2121;
+$link-color: $clr-navyblue; //#2A2121;
 
 h1{
   //font-family: "Poppins", sans-serif;
@@ -148,7 +149,7 @@ h2{
 }
 
 .button {
-  background-color: #000033;
+  background-color: $clr-navyblue;
   border: none;
   color: #fff;
   cursor: pointer;
@@ -186,7 +187,7 @@ h2{
 }
 
 .button:hover {
-  background: $clr-blue;
+  background: $clr-tom;
 }
 
 .flex-container {
