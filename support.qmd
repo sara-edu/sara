@@ -19,72 +19,22 @@ include-in-header:
 ::: {.col}
 ::: {.card}
 
-::: {.centering}
+## [Donations made to the SARA Institute are eligible for 80G tax exemption.]{.clr-blue}
 
-<br>
+## How to Donate:
 
-[**Donations made to SARA Institute are eligible for tax exemption.**]{.clr-blue}
+> UPI ID: 919243152024@sbi
 
-<!-- [We are not eligible to accept international donations.]{.clr-red} -->
+## Bank Transfer:
 
-<br>
+Account Name: SARA EDUCATION TRUST.
 
-::: {.layout-grid}
-::: {.col}
+Account Number: 42920911856.      
 
-:::
+Bank Name: STATE BANK OF INDIA.        
 
-::: {.col}
+IFSC Code: SBIN0000721.   
 
-### STEP 1: In your mobile scan this QR Code
-
-![](images/donate1.png)
-:::
-
-::: {.col}
-
-:::
-:::
-
-----
-
-::: {.layout-grid}
-::: {.col}
-
-:::
-
-::: {.col}
-
-### STEP 2: In your mobile click at the "Open Link"
-
-![](images/donate2.jpeg)
-
-:::
-
-::: {.col}
-
-:::
-:::
-
-----
-
-::: {.layout-grid}
-::: {.col}
-
-:::
-
-::: {.col}
-
-### STEP 3: In your mobile enter the amount
-
-![](images/donate3.jpeg)
-
-:::
-
-::: {.col}
-
-:::
-:::
 
 :::
 :::
