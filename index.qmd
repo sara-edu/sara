@@ -172,9 +172,13 @@ Learning English enhanced global communication, opens doors to diverse cultures,
 
 <br>
 
-Last updated on {{< modified "%A, %d %B %Y" >}}
-
-<br>
 :::
 
+::: {.column-page}
+
+{{< revealjs file="https://sara-edu.github.io/slides-sara-intro/" full-screen-link="false" class="ratio ratio-16x9" >}}
+
+Last updated on {{< modified "%A, %d %B %Y" >}}
+
+:::
 
