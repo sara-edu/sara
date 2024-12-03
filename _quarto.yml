@@ -52,7 +52,7 @@ website:
             href: publish-quarto/2025-quarto-bootcamp/quarto-bootcamp-2025.qmd
       - text: News & Events
         href: news.qmd
-      - text: Support 
+      - text: Donate 
         href: support.qmd
       - text: Contact
         href: contact.qmd

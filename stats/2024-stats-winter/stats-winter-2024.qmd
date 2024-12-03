@@ -15,7 +15,9 @@ include-in-header:
 
 ---
 
-# STATISTICS USING R <br><br> SARA Data Science Winter School 2024
+# "STATISTICS USING R"
+
+## SARA Data Science Winter School 2024
 
 ::: {.layout-grid}
 
@@ -50,7 +52,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 [REGISTRATION FOR THE 2024 SARA DATA SCIENCE WINTER SCHOOL IS NOW OPEN!]{.clr-blue}
 
-### [ORGANIZED ONLY FOR UNDER-REPRESENTED COMMUNITIES]{.clr-blue}
+### [Students from Underrepresented Communities will be Prioritized for Selection]{.clr-blue}
 
 [THERE IS NO TUITION FEE.]{.clr-navyblue}
 
@@ -62,9 +64,11 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 
 *21 December: Departure of the participants.*
 	
-### [Only 12 spots left! Enjoy a 40% discount on food & accommodation for our Data Science Winter School. Hurry, offer valid until Nov 10, 2024, or until spots fill up—whichever comes first!]{.clr-tom}	
+### [Only 09 spots left! Enjoy a 40% discount on food & accommodation for our Data Science Winter School. Hurry, offer valid until Nov 10, 2024, or until spots fill up—whichever comes first!]{.clr-tom}	
+
+<br>
 	
-[Payment Link](https://razorpay.me/@sarainstitute)
+Payment UPI ID: 919253152024@sbi
 
 [Registration Link](https://tinyurl.com/4phufkw2)
 
@@ -139,7 +143,7 @@ The classes will be offered physically in-person at the SARA Institute, Dr. Ambe
 :::
 
 
-We're thrilled to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
+We're happy to host you at Dr. Ambedkar Bhawan, on Kakroi Road, Sonipat, Haryana - 131001. Please find the venue's Google Map link for your convenience: [Venue Location](https://maps.app.goo.gl/cKMZxsVUeQEFW3Gj8). 
 
 At Dr. Ambedkar Bhawan, our priority is to ensure your comfort and well-being during your stay. While we may not offer hotel-like amenities, we are committed to providing you with a cozy and welcoming atmosphere.
 
